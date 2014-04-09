@@ -1,0 +1,119 @@
+AMMORT
+ Amount of 1st mortgage when acquired
+
+
+EAPTBL
+ Apartment bldgs within 1/2 block of unit
+
+
+ECOM1
+ Business/instituitions within 1/2 block
+
+
+ECOM2
+ Factories/othr industry within 1/2 block
+
+
+EGREEN
+ Open spaces within 1/2 block of unit
+
+
+EJUNK
+ Trash/junk in streets/prprtys in 1/2 blk
+
+
+ELOW1 
+Single-family town/rowhouses in 1/2 blk
+
+
+ESFD
+ Single family homes within 1/2 block
+
+
+ETRANS
+ Rr/airport/4-lane hwy within 1/2 block
+
+
+EABAN
+ Abandoned/vandalized bldgs withn 1/2 blk
+
+
+HOWH
+ Rating of unit as a place to live
+
+
+HOWN
+ Rating of neighborhood as place to live
+
+
+ODORA
+ Neighborhood has bad smells
+
+
+STRNA
+ Neighbrhd has heavy street noise/traffic
+
+
+ZINC2
+ Household Income
+
+PER
+# of persons in household
+
+
+ZADULT
+ # of adults 18+ in household
+
+
+HHGRAD
+ Educational level of householder
+
+
+NUNITS
+# of units in building
+
+ 
+INTW
+ Interest rate of 1st mortgage - whole #%
+
+
+METRO
+ Central city / suburban status
+
+
+LPRICE
+ Purchase price of unit and land
+
+
+STATE
+ state code
+
+
+LPRICE
+ Purchase price of unit and land
+
+
+BATHS
+ # of full bathrooms in unit
+ 
+BEDRMS
+ # of bedrooms in unit
+
+
+MATBUY
+ Got 1st mortgage in same yr bought unit
+
+
+DWNPAY
+ Main source of downpayment on unit
+
+
+VALUE
+ Current market value of unit
+
+
+FRSTHO
+ First Home
+
+
+
