@@ -70,7 +70,7 @@ HHGRAD
 
 
 NUNITS
-# of units in building
+ # of units in building
 
  
 INTW
