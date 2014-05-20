@@ -54,3 +54,15 @@ for(b in 1:20){
 ## not very exciting though: all zeros
 hist(gamb, main="Expected effect of degree in log odds") ; abline(v=mean(gamb), col="red")
 1-fitb$deviance/fitb$deviance[1] #different way of calculating r2
+
+
+
+##### Solution
+lapply(hh,summary) # look at summary of each row
+# use naref to get relevel factors, you dont want them to be subsumed into the intercept
+# Why do we do this - cuz in the lasso the ref matters, and the intercept choice penalizes the factors.
+# Earlier taught that factors should fit into the intercept, but this is no longer true, cuz we penalize Betas. Lambdas shrink
+# the intercept to  0 or if we fail to naref then to village 1 (which is not the intercept), if we want the average village use naref 
+source("naref.r")
+hhnoref = naref(hh)
+
