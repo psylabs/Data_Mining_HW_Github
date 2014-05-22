@@ -1,0 +1,2385 @@
+
+        
+
+
+[Pages H4829-H4841]
+                              {time}  1640
+                 AFFORDABLE HEALTH CARE FOR AMERICA ACT
+
+  Mr. LEVIN. Mr. Speaker, I move to suspend the rules and concur in the 
+Senate amendments to the bill (H.R. 3962) to provide affordable, 
+quality health care for all Americans and reduce the growth in health 
+care spending, and for other purposes.
+  The Clerk read the title of the bill.
+  The text of the Senate amendments is as follows:
+
+       Senate amendments:
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Preservation of Access to 
+     Care for Medicare Beneficiaries and Pension Relief Act of 
+     2010''.
+
+                       TITLE I--HEALTH PROVISIONS
+
+     SEC. 101. PHYSICIAN PAYMENT UPDATE.
+
+       (a) In General.--Section 1848(d) of the Social Security Act 
+     (42 U.S.C. 1395w-4(d)) is amended--
+       (1) in paragraph (10), in the heading, by striking 
+     ``portion'' and inserting ``January through may ''; and
+       (2) by adding at the end the following new paragraph:
+       ``(11) Update for june through november of 2010.--
+       ``(A) In general.--Subject to paragraphs (7)(B), (8)(B), 
+     (9)(B), and (10)(B), in lieu of the update to the single 
+     conversion factor established in paragraph (1)(C) that would 
+     otherwise apply for 2010 for the period beginning on June 1, 
+     2010, and ending on November 30, 2010, the update to the 
+     single conversion factor shall be 2.2 percent.
+       ``(B) No effect on computation of conversion factor for 
+     remaining portion of 2010 and subsequent years.--The 
+     conversion factor under this subsection shall be computed 
+     under paragraph (1)(A) for the period beginning on December 
+     1, 2010, and ending on December 31, 2010, and for 2011 and 
+     subsequent years as if subparagraph (A) had never applied.''.
+       (b) Statutory Paygo.--The budgetary effects of this Act, 
+     for the purpose of complying with the Statutory Pay-As-You-Go 
+     Act of 2010, shall be determined by reference to the latest 
+     statement titled ``Budgetary Effects of PAYGO Legislation'' 
+     for this Act, jointly submitted for printing in the 
+     Congressional Record by the Chairmen of the House and Senate 
+     Budget Committees, provided that such statement has been 
+     submitted prior to the vote on passage in the House acting 
+     first on this conference report or amendment between the 
+     Houses.
+
+     SEC. 102. CLARIFICATION OF 3-DAY PAYMENT WINDOW.
+
+       (a) In General.--Section 1886 of the Social Security Act 
+     (42 U.S.C. 1395ww) is amended--
+       (1) by adding at the end of subsection (a)(4) the following 
+     new sentence: ``In applying the first sentence of this 
+     paragraph, the term `other services related to the admission' 
+     includes all services that are not diagnostic services (other 
+     than ambulance and maintenance renal dialysis services) for 
+     which payment may be made under this title that are provided 
+     by a hospital (or an entity wholly owned or operated by the 
+     hospital) to a patient--
+       ``(A) on the date of the patient's inpatient admission; or
+       ``(B) during the 3 days (or, in the case of a hospital that 
+     is not a subsection (d) hospital, during the 1 day) 
+     immediately preceding the date of such admission unless the 
+     hospital demonstrates (in a form and manner, and at a time, 
+     specified by the Secretary) that such services are not 
+     related (as determined by the Secretary) to such 
+     admission.''; and
+       (2) in subsection (d)(7)--
+       (A) in subparagraph (A), by striking ``and'' at the end;
+       (B) in subparagraph (B), by striking the period and 
+     inserting ``, and''; and
+       (C) by adding at the end the following new subparagraph:
+       ``(C) the determination of whether services provided prior 
+     to a patient's inpatient admission are related to the 
+     admission (as described in subsection (a)(4)).''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall apply to services furnished on or after the date of the 
+     enactment of this Act.
+       (c) No Reopening of Previously Bundled Claims.--
+
+[[Page H4830]]
+
+       (1) In general.--The Secretary of Health and Human Services 
+     may not reopen a claim, adjust a claim, or make a payment 
+     pursuant to any request for payment under title XVIII of the 
+     Social Security Act, submitted by an entity (including a 
+     hospital or an entity wholly owned or operated by the 
+     hospital) for services described in paragraph (2) for 
+     purposes of treating, as unrelated to a patient's inpatient 
+     admission, services provided during the 3 days (or, in the 
+     case of a hospital that is not a subsection (d) hospital, 
+     during the 1 day) immediately preceding the date of the 
+     patient's inpatient admission.
+       (2) Services described.--For purposes of paragraph (1), the 
+     services described in this paragraph are other services 
+     related to the admission (as described in section 1886(a)(4) 
+     of the Social Security Act (42 U.S.C. 1395ww(a)(4)), as 
+     amended by subsection (a)) which were previously included on 
+     a claim or request for payment submitted under part A of 
+     title XVIII of such Act for which a reopening, adjustment, or 
+     request for payment under part B of such title, was not 
+     submitted prior to the date of the enactment of this Act.
+       (d) Implementation.--Notwithstanding any other provision of 
+     law, the Secretary of Health and Human Services may implement 
+     the provisions of this section (and amendments made by this 
+     section) by program instruction or otherwise.
+       (e) Rule of Construction.--Nothing in the amendments made 
+     by this section shall be construed as changing the policy 
+     described in section 1886(a)(4) of the Social Security Act 
+     (42 U.S.C. 1395ww(a)(4)), as applied by the Secretary of 
+     Health and Human Services before the date of the enactment of 
+     this Act, with respect to diagnostic services.
+
+     SEC. 103. ESTABLISH A CMS-IRS DATA MATCH TO IDENTIFY 
+                   FRAUDULENT PROVIDERS.
+
+       (a) Authority To Disclose Return Information Concerning 
+     Outstanding Tax Debts for Purposes of Enhancing Medicare 
+     Program Integrity.--
+       (1) In general.--Section 6103(l) of the Internal Revenue 
+     Code of 1986 is amended by adding at the end the following 
+     new paragraph:
+       ``(22) Disclosure of return information to department of 
+     health and human services for purposes of enhancing medicare 
+     program integrity.--
+       ``(A) In general.--The Secretary shall, upon written 
+     request from the Secretary of Health and Human Services, 
+     disclose to officers and employees of the Department of 
+     Health and Human Services return information with respect to 
+     a taxpayer who has applied to enroll, or reenroll, as a 
+     provider of services or supplier under the Medicare program 
+     under title XVIII of the Social Security Act. Such return 
+     information shall be limited to--
+       ``(i) the taxpayer identity information with respect to 
+     such taxpayer;
+       ``(ii) the amount of the delinquent tax debt owed by that 
+     taxpayer; and
+       ``(iii) the taxable year to which the delinquent tax debt 
+     pertains.
+       ``(B) Restriction on disclosure.--Return information 
+     disclosed under subparagraph (A) may be used by officers and 
+     employees of the Department of Health and Human Services for 
+     the purposes of, and to the extent necessary in, establishing 
+     the taxpayer's eligibility for enrollment or reenrollment in 
+     the Medicare program, or in any administrative or judicial 
+     proceeding relating to, or arising from, a denial of such 
+     enrollment or reenrollment, or in determining the level of 
+     enhanced oversight to be applied with respect to such 
+     taxpayer pursuant to section 1866(j)(3) of the Social 
+     Security Act.
+       ``(C) Delinquent tax debt.--For purposes of this paragraph, 
+     the term `delinquent tax debt' means an outstanding debt 
+     under this title for which a notice of lien has been filed 
+     pursuant to section 6323, but the term does not include a 
+     debt that is being paid in a timely manner pursuant to an 
+     agreement under section 6159 or 7122, or a debt with respect 
+     to which a collection due process hearing under section 6330 
+     is requested, pending, or completed and no payment is 
+     required.''.
+       (2) Conforming amendments.--Section 6103(p)(4) of such 
+     Code, as amended by sections 1414 and 3308 of Public Law 111-
+     148, in the matter preceding subparagraph (A) and in 
+     subparagraph (F)(ii), is amended by striking ``or (17)'' and 
+     inserting ``(17), or (22)'' each place it appears.
+       (b) Secretary's Authority To Use Information From the 
+     Department of Treasury in Medicare Enrollments and 
+     Reenrollments.--Section 1866(j)(2) of the Social Security Act 
+     (42 U.S.C. 1395cc(j)), as inserted by section 6401(a) of 
+     Public Law 111-148, is further amended--
+       (1) by redesignating subparagraph (E) as subparagraph (F); 
+     and
+       (2) by inserting after subparagraph (D) the following new 
+     subparagraph:
+       ``(E) Use of information from the department of treasury 
+     concerning tax debts.--In reviewing the application of a 
+     provider of services or supplier to enroll or reenroll under 
+     the program under this title, the Secretary shall take into 
+     account the information supplied by the Secretary of the 
+     Treasury pursuant to section 6103(l)(22) of the Internal 
+     Revenue Code of 1986, in determining whether to deny such 
+     application or to apply enhanced oversight to such provider 
+     of services or supplier pursuant to paragraph (3) if the 
+     Secretary determines such provider of services or supplier 
+     owes such a debt.''.
+       (c) Authority To Adjust Payments of Providers of Services 
+     and Suppliers With the Same Tax Identification Number for 
+     Medicare Obligations.--Section 1866(j)(6) of the Social 
+     Security Act (42 U.S.C. 1395cc(j)(6)), as inserted by section 
+     6401(a) of Public Law 111-148 and as redesignated by section 
+     1304 of Public Law 111-152, is amended--
+       (1) in the paragraph heading, by striking ``past-due'' and 
+     inserting ``medicare'';
+       (2) in subparagraph (A), by striking ``past-due obligations 
+     described in subparagraph (B)(ii) of an'' and inserting 
+     ``amount described in subparagraph (B)(ii) due from such''; 
+     and
+       (3) in subparagraph (B)(ii), by striking ``a past-due 
+     obligation'' and inserting ``an amount that is more than the 
+     amount required to be paid''.
+
+                    TITLE II--PENSION FUNDING RELIEF
+
+                   Subtitle A--Single Employer Plans
+
+     SEC. 201. EXTENDED PERIOD FOR SINGLE-EMPLOYER DEFINED BENEFIT 
+                   PLANS TO AMORTIZE CERTAIN SHORTFALL 
+                   AMORTIZATION BASES.
+
+       (a) Amendments to ERISA.--
+       (1) In general.--Paragraph (2) of section 303(c) of the 
+     Employee Retirement Income Security Act of 1974 (29 U.S.C. 
+     1083(c)) is amended by adding at the end the following 
+     subparagraph:
+       ``(D) Special election for eligible plan years.--
+       ``(i) In general.--If a plan sponsor elects to apply this 
+     subparagraph with respect to the shortfall amortization base 
+     of a plan for any eligible plan year (in this subparagraph 
+     and paragraph (7) referred to as an `election year'), then, 
+     notwithstanding subparagraphs (A) and (B)--
+
+       ``(I) the shortfall amortization installments with respect 
+     to such base shall be determined under clause (ii) or (iii), 
+     whichever is specified in the election, and
+       ``(II) the shortfall amortization installment for any plan 
+     year in the 9-plan-year period described in clause (ii) or 
+     the 15-plan-year period described in clause (iii), 
+     respectively, with respect to such shortfall amortization 
+     base is the annual installment determined under the 
+     applicable clause for that year for that base.
+
+       ``(ii) 2 plus 7 amortization schedule.--The shortfall 
+     amortization installments determined under this clause are--
+
+       ``(I) in the case of the first 2 plan years in the 9-plan-
+     year period beginning with the election year, interest on the 
+     shortfall amortization base of the plan for the election year 
+     (determined using the effective interest rate for the plan 
+     for the election year), and
+       ``(II) in the case of the last 7 plan years in such 9-plan-
+     year period, the amounts necessary to amortize the remaining 
+     balance of the shortfall amortization base of the plan for 
+     the election year in level annual installments over such last 
+     7 plan years (using the segment rates under subparagraph (C) 
+     for the election year).
+
+       ``(iii) 15-year amortization.--The shortfall amortization 
+     installments determined under this subparagraph are the 
+     amounts necessary to amortize the shortfall amortization base 
+     of the plan for the election year in level annual 
+     installments over the 15-plan-year period beginning with the 
+     election year (using the segment rates under subparagraph (C) 
+     for the election year).
+       ``(iv) Election.--
+
+       ``(I) In general.--The plan sponsor of a plan may elect to 
+     have this subparagraph apply to not more than 2 eligible plan 
+     years with respect to the plan, except that in the case of a 
+     plan described in section 106 of the Pension Protection Act 
+     of 2006, the plan sponsor may only elect to have this 
+     subparagraph apply to a plan year beginning in 2011.
+       ``(II) Amortization schedule.--Such election shall specify 
+     whether the amortization schedule under clause (ii) or (iii) 
+     shall apply to an election year, except that if a plan 
+     sponsor elects to have this subparagraph apply to 2 eligible 
+     plan years, the plan sponsor must elect the same schedule for 
+     both years.
+       ``(III) Other rules.--Such election shall be made at such 
+     time, and in such form and manner, as shall be prescribed by 
+     the Secretary of the Treasury, and may be revoked only with 
+     the consent of the Secretary of the Treasury. The Secretary 
+     of the Treasury shall, before granting a revocation request, 
+     provide the Pension Benefit Guaranty Corporation an 
+     opportunity to comment on the conditions applicable to the 
+     treatment of any portion of the election year shortfall 
+     amortization base that remains unamortized as of the 
+     revocation date.
+
+       ``(v) Eligible plan year.--For purposes of this 
+     subparagraph, the term `eligible plan year' means any plan 
+     year beginning in 2008, 2009, 2010, or 2011, except that a 
+     plan year shall only be treated as an eligible plan year if 
+     the due date under subsection (j)(1) for the payment of the 
+     minimum required contribution for such plan year occurs on or 
+     after the date of the enactment of this subparagraph.
+       ``(vi) Reporting.--A plan sponsor of a plan who makes an 
+     election under clause (i) shall--
+
+       ``(I) give notice of the election to participants and 
+     beneficiaries of the plan, and
+       ``(II) inform the Pension Benefit Guaranty Corporation of 
+     such election in such form and manner as the Director of the 
+     Pension Benefit Guaranty Corporation may prescribe.
+
+       ``(vii) Increases in required installments in certain 
+     cases.--For increases in required contributions in cases of 
+     excess compensation or extraordinary dividends or stock 
+     redemptions, see paragraph (7).''.
+       (2) Increases in required installments in certain cases.--
+     Section 303(c) of the Employee Retirement Income Security Act 
+     of 1974 (29 U.S.C. 1083(c)) is amended by adding at the end 
+     the following paragraph:
+       ``(7) Increases in alternate required installments in cases 
+     of excess compensation or extraordinary dividends or stock 
+     redemptions.--
+       ``(A) In general.--If there is an installment acceleration 
+     amount with respect to a plan for any plan year in the 
+     restriction period with respect to an election year under 
+     paragraph (2)(D), then the shortfall amortization installment 
+     otherwise determined and payable under such paragraph for 
+     such plan year shall, subject to the limitation under 
+     subparagraph (B), be increased by such amount.
+
+[[Page H4831]]
+
+       ``(B) Total installments limited to shortfall base.--
+     Subject to rules prescribed by the Secretary of the Treasury, 
+     if a shortfall amortization installment with respect to any 
+     shortfall amortization base for an election year is required 
+     to be increased for any plan year under subparagraph (A)--
+       ``(i) such increase shall not result in the amount of such 
+     installment exceeding the present value of such installment 
+     and all succeeding installments with respect to such base 
+     (determined without regard to such increase but after 
+     application of clause (ii)), and
+       ``(ii) subsequent shortfall amortization installments with 
+     respect to such base shall, in reverse order of the otherwise 
+     required installments, be reduced to the extent necessary to 
+     limit the present value of such subsequent shortfall 
+     amortization installments (after application of this 
+     paragraph) to the present value of the remaining unamortized 
+     shortfall amortization base.
+       ``(C) Installment acceleration amount.--For purposes of 
+     this paragraph--
+       ``(i) In general.--The term `installment acceleration 
+     amount' means, with respect to any plan year in a restriction 
+     period with respect to an election year, the sum of--
+
+       ``(I) the aggregate amount of excess employee compensation 
+     determined under subparagraph (D) with respect to all 
+     employees for the plan year, plus
+       ``(II) the aggregate amount of extraordinary dividends and 
+     redemptions determined under subparagraph (E) for the plan 
+     year.
+
+       ``(ii) Annual limitation.--The installment acceleration 
+     amount for any plan year shall not exceed the excess (if any) 
+     of--
+
+       ``(I) the sum of the shortfall amortization installments 
+     for the plan year and all preceding plan years in the 
+     amortization period elected under paragraph (2)(D) with 
+     respect to the shortfall amortization base with respect to an 
+     election year, determined without regard to paragraph (2)(D) 
+     and this paragraph, over
+       ``(II) the sum of the shortfall amortization installments 
+     for such plan year and all such preceding plan years, 
+     determined after application of paragraph (2)(D) (and in the 
+     case of any preceding plan year, after application of this 
+     paragraph).
+
+       ``(iii) Carryover of excess installment acceleration 
+     amounts.--
+
+       ``(I) In general.--If the installment acceleration amount 
+     for any plan year (determined without regard to clause (ii)) 
+     exceeds the limitation under clause (ii), then, subject to 
+     subclause (II), such excess shall be treated as an 
+     installment acceleration amount with respect to the 
+     succeeding plan year.
+       ``(II) Cap to apply.--If any amount treated as an 
+     installment acceleration amount under subclause (I) or this 
+     subclause with respect any succeeding plan year, when added 
+     to other installment acceleration amounts (determined without 
+     regard to clause (ii)) with respect to the plan year, exceeds 
+     the limitation under clause (ii), the portion of such amount 
+     representing such excess shall be treated as an installment 
+     acceleration amount with respect to the next succeeding plan 
+     year.
+       ``(III) Limitation on years to which amounts carried for.--
+     No amount shall be carried under subclause (I) or (II) to a 
+     plan year which begins after the first plan year following 
+     the last plan year in the restriction period (or after the 
+     second plan year following such last plan year in the case of 
+     an election year with respect to which 15-year amortization 
+     was elected under paragraph (2)(D)).
+       ``(IV) Ordering rules.--For purposes of applying subclause 
+     (II), installment acceleration amounts for the plan year 
+     (determined without regard to any carryover under this 
+     clause) shall be applied first against the limitation under 
+     clause (ii) and then carryovers to such plan year shall be 
+     applied against such limitation on a first-in, first-out 
+     basis.
+
+       ``(D) Excess employee compensation.--For purposes of this 
+     paragraph--
+       ``(i) In general.--The term `excess employee compensation' 
+     means, with respect to any employee for any plan year, the 
+     excess (if any) of--
+
+       ``(I) the aggregate amount includible in income under 
+     chapter 1 of the Internal Revenue Code of 1986 for 
+     remuneration during the calendar year in which such plan year 
+     begins for services performed by the employee for the plan 
+     sponsor (whether or not performed during such calendar year), 
+     over
+       ``(II) $1,000,000.
+
+       ``(ii) Amounts set aside for nonqualified deferred 
+     compensation.--If during any calendar year assets are set 
+     aside or reserved (directly or indirectly) in a trust (or 
+     other arrangement as determined by the Secretary of the 
+     Treasury), or transferred to such a trust or other 
+     arrangement, by a plan sponsor for purposes of paying 
+     deferred compensation of an employee under a nonqualified 
+     deferred compensation plan (as defined in section 409A of 
+     such Code) of the plan sponsor, then, for purposes of clause 
+     (i), the amount of such assets shall be treated as 
+     remuneration of the employee includible in income for the 
+     calendar year unless such amount is otherwise includible in 
+     income for such year. An amount to which the preceding 
+     sentence applies shall not be taken into account under this 
+     paragraph for any subsequent calendar year.
+       ``(iii) Only remuneration for certain post-2009 services 
+     counted.--Remuneration shall be taken into account under 
+     clause (i) only to the extent attributable to services 
+     performed by the employee for the plan sponsor after February 
+     28, 2010.
+       ``(iv) Exception for certain equity payments.--
+
+       ``(I) In general.--There shall not be taken into account 
+     under clause (i)(I) any amount includible in income with 
+     respect to the granting after February 28, 2010, of service 
+     recipient stock (within the meaning of section 409A of the 
+     Internal Revenue Code of 1986) that, upon such grant, is 
+     subject to a substantial risk of forfeiture (as defined under 
+     section 83(c)(1) of such Code) for at least 5 years from the 
+     date of such grant.
+       ``(II) Secretarial authority.--The Secretary of the 
+     Treasury may by regulation provide for the application of 
+     this clause in the case of a person other than a corporation.
+
+       ``(v) Other exceptions.--The following amounts includible 
+     in income shall not be taken into account under clause 
+     (i)(I):
+
+       ``(I) Commissions.--Any remuneration payable on a 
+     commission basis solely on account of income directly 
+     generated by the individual performance of the individual to 
+     whom such remuneration is payable.
+
+       ``(II) Certain payments under existing contracts.--Any 
+     remuneration consisting of nonqualified deferred 
+     compensation, restricted stock, stock options, or stock 
+     appreciation rights payable or granted under a written 
+     binding contract that was in effect on March 1, 2010, and 
+     which was not modified in any material respect before such 
+     remuneration is paid.
+
+       ``(vi) Self-employed individual treated as employee.--The 
+     term `employee' includes, with respect to a calendar year, a 
+     self-employed individual who is treated as an employee under 
+     section 401(c) of such Code for the taxable year ending 
+     during such calendar year, and the term `compensation' shall 
+     include earned income of such individual with respect to such 
+     self-employment.
+       ``(vii) Indexing of amount.--In the case of any calendar 
+     year beginning after 2010, the dollar amount under clause 
+     (i)(II) shall be increased by an amount equal to--
+
+       ``(I) such dollar amount, multiplied by
+       ``(II) the cost-of-living adjustment determined under 
+     section 1(f)(3) of such Code for the calendar year, 
+     determined by substituting `calendar year 2009' for `calendar 
+     year 1992' in subparagraph (B) thereof.
+
+     If the amount of any increase under clause (i) is not a 
+     multiple of $1,000, such increase shall be rounded to the 
+     next lowest multiple of $1,000.
+       ``(E) Extraordinary dividends and redemptions.--
+       ``(i) In general.--The amount determined under this 
+     subparagraph for any plan year is the excess (if any) of the 
+     sum of the dividends declared during the plan year by the 
+     plan sponsor plus the aggregate amount paid for the 
+     redemption of stock of the plan sponsor redeemed during the 
+     plan year over the greater of--
+
+       ``(I) the adjusted net income (within the meaning of 
+     section 4043) of the plan sponsor for the preceding plan 
+     year, determined without regard to any reduction by reason of 
+     interest, taxes, depreciation, or amortization, or
+       ``(II) in the case of a plan sponsor that determined and 
+     declared dividends in the same manner for at least 5 
+     consecutive years immediately preceding such plan year, the 
+     aggregate amount of dividends determined and declared for 
+     such plan year using such manner.
+
+       ``(ii) Only certain post-2009 dividends and redemptions 
+     counted.--For purposes of clause (i), there shall only be 
+     taken into account dividends declared, and redemptions 
+     occurring, after February 28, 2010.
+       ``(iii) Exception for intra-group dividends.--Dividends 
+     paid by one member of a controlled group (as defined in 
+     section 302(d)(3)) to another member of such group shall not 
+     be taken into account under clause (i).
+       ``(iv) Exception for certain redemptions.--Redemptions that 
+     are made pursuant to a plan maintained with respect to 
+     employees, or that are made on account of the death, 
+     disability, or termination of employment of an employee or 
+     shareholder, shall not be taken into account under clause 
+     (i).
+       ``(v) Exception for certain preferred stock.--
+
+       ``(I) In general.--Dividends and redemptions with respect 
+     to applicable preferred stock shall not be taken into account 
+     under clause (i) to the extent that dividends accrue with 
+     respect to such stock at a specified rate in all events and 
+     without regard to the plan sponsor's income, and interest 
+     accrues on any unpaid dividends with respect to such stock.
+       ``(II) Applicable preferred stock.--For purposes of 
+     subclause (I), the term `applicable preferred stock' means 
+     preferred stock which was issued before March 1, 2010 (or 
+     which was issued after such date and is held by an employee 
+     benefit plan subject to the provisions of this title).
+
+       ``(F) Other definitions and rules.--For purposes of this 
+     paragraph--
+       ``(i) Plan sponsor.--The term ` plan sponsor' includes any 
+     member of the plan sponsor's controlled group (as defined in 
+     section 302(d)(3)).
+       ``(ii) Restriction period.--The term `restriction period' 
+     means, with respect to any election year--
+
+       ``(I) except as provided in subclause (II), the 3-year 
+     period beginning with the election year (or, if later, the 
+     first plan year beginning after December 31, 2009), and
+       ``(II) if the plan sponsor elects 15-year amortization for 
+     the shortfall amortization base for the election year, the 5-
+     year period beginning with the election year (or, if later, 
+     the first plan year beginning after December 31, 2009).
+
+       ``(iii) Elections for multiple plans.--If a plan sponsor 
+     makes elections under paragraph (2)(D) with respect to 2 or 
+     more plans, the Secretary of the Treasury shall provide rules 
+     for the application of this paragraph to such plans, 
+     including rules for the ratable allocation of any installment 
+     acceleration amount among such plans on the basis of each 
+     plan's relative reduction in the plan's shortfall 
+     amortization installment for the first plan year in the 
+     amortization period described in subparagraph (A) (determined 
+     without regard to this paragraph).
+       ``(iv) Mergers and acquisitions.--The Secretary of the 
+     Treasury shall prescribe rules for
+
+[[Page H4832]]
+
+     the application of paragraph (2)(D) and this paragraph in any 
+     case where there is a merger or acquisition involving a plan 
+     sponsor making the election under paragraph (2)(D).''.
+       (3) Conforming amendments.--Section 303 of such Act (29 
+     U.S.C. 1083) is amended--
+       (A) in subsection (c)(1), by striking ``the shortfall 
+     amortization bases for such plan year and each of the 6 
+     preceding plan years'' and inserting ``any shortfall 
+     amortization base which has not been fully amortized under 
+     this subsection'', and
+       (B) in subsection (j)(3), by adding at the end the 
+     following:
+       ``(F) Quarterly contributions not to include certain 
+     increased contributions.--Subparagraph (D) shall be applied 
+     without regard to any increase under subsection (c)(7).''.
+       (b) Amendments to Internal Revenue Code of 1986.--
+       (1) In general.--Paragraph (2) of section 430(c) is amended 
+     by adding at the end the following subparagraph:
+       ``(D) Special election for eligible plan years.--
+       ``(i) In general.--If a plan sponsor elects to apply this 
+     subparagraph with respect to the shortfall amortization base 
+     of a plan for any eligible plan year (in this subparagraph 
+     and paragraph (7) referred to as an `election year'), then, 
+     notwithstanding subparagraphs (A) and (B)--
+
+       ``(I) the shortfall amortization installments with respect 
+     to such base shall be determined under clause (ii) or (iii), 
+     whichever is specified in the election, and
+       ``(II) the shortfall amortization installment for any plan 
+     year in the 9-plan-year period described in clause (ii) or 
+     the 15-plan-year period described in clause (iii), 
+     respectively, with respect to such shortfall amortization 
+     base is the annual installment determined under the 
+     applicable clause for that year for that base.
+
+       ``(ii) 2 plus 7 amortization schedule.--The shortfall 
+     amortization installments determined under this clause are--
+
+       ``(I) in the case of the first 2 plan years in the 9-plan-
+     year period beginning with the election year, interest on the 
+     shortfall amortization base of the plan for the election year 
+     (determined using the effective interest rate for the plan 
+     for the election year), and
+       ``(II) in the case of the last 7 plan years in such 9-plan-
+     year period, the amounts necessary to amortize the remaining 
+     balance of the shortfall amortization base of the plan for 
+     the election year in level annual installments over such last 
+     7 plan years (using the segment rates under subparagraph (C) 
+     for the election year).
+
+       ``(iii) 15-year amortization.--The shortfall amortization 
+     installments determined under this subparagraph are the 
+     amounts necessary to amortize the shortfall amortization base 
+     of the plan for the election year in level annual 
+     installments over the 15-plan-year period beginning with the 
+     election year (using the segment rates under subparagraph (C) 
+     for the election year).
+       ``(iv) Election.--
+
+       ``(I) In general.--The plan sponsor of a plan may elect to 
+     have this subparagraph apply to not more than 2 eligible plan 
+     years with respect to the plan, except that in the case of a 
+     plan described in section 106 of the Pension Protection Act 
+     of 2006, the plan sponsor may only elect to have this 
+     subparagraph apply to a plan year beginning in 2011.
+       ``(II) Amortization schedule.--Such election shall specify 
+     whether the amortization schedule under clause (ii) or (iii) 
+     shall apply to an election year, except that if a plan 
+     sponsor elects to have this subparagraph apply to 2 eligible 
+     plan years, the plan sponsor must elect the same schedule for 
+     both years.
+       ``(III) Other rules.--Such election shall be made at such 
+     time, and in such form and manner, as shall be prescribed by 
+     the Secretary, and may be revoked only with the consent of 
+     the Secretary. The Secretary shall, before granting a 
+     revocation request, provide the Pension Benefit Guaranty 
+     Corporation an opportunity to comment on the conditions 
+     applicable to the treatment of any portion of the election 
+     year shortfall amortization base that remains unamortized as 
+     of the revocation date.
+
+       ``(v) Eligible plan year.--For purposes of this 
+     subparagraph, the term `eligible plan year' means any plan 
+     year beginning in 2008, 2009, 2010, or 2011, except that a 
+     plan year shall only be treated as an eligible plan year if 
+     the due date under subsection (j)(1) for the payment of the 
+     minimum required contribution for such plan year occurs on or 
+     after the date of the enactment of this subparagraph.
+       ``(vi) Reporting.--A plan sponsor of a plan who makes an 
+     election under clause (i) shall--
+
+       ``(I) give notice of the election to participants and 
+     beneficiaries of the plan, and
+       ``(II) inform the Pension Benefit Guaranty Corporation of 
+     such election in such form and manner as the Director of the 
+     Pension Benefit Guaranty Corporation may prescribe.
+
+       ``(vii) Increases in required installments in certain 
+     cases.--For increases in required contributions in cases of 
+     excess compensation or extraordinary dividends or stock 
+     redemptions, see paragraph (7).''.
+       (2) Increases in required contributions if excess 
+     compensation paid.--Section 430(c) is amended by adding at 
+     the end the following paragraph:
+       ``(7) Increases in alternate required installments in cases 
+     of excess compensation or extraordinary dividends or stock 
+     redemptions.--
+       ``(A) In general.--If there is an installment acceleration 
+     amount with respect to a plan for any plan year in the 
+     restriction period with respect to an election year under 
+     paragraph (2)(D), then the shortfall amortization installment 
+     otherwise determined and payable under such paragraph for 
+     such plan year shall, subject to the limitation under 
+     subparagraph (B), be increased by such amount.
+       ``(B) Total installments limited to shortfall base.--
+     Subject to rules prescribed by the Secretary, if a shortfall 
+     amortization installment with respect to any shortfall 
+     amortization base for an election year is required to be 
+     increased for any plan year under subparagraph (A)--
+       ``(i) such increase shall not result in the amount of such 
+     installment exceeding the present value of such installment 
+     and all succeeding installments with respect to such base 
+     (determined without regard to such increase but after 
+     application of clause (ii)), and
+       ``(ii) subsequent shortfall amortization installments with 
+     respect to such base shall, in reverse order of the otherwise 
+     required installments, be reduced to the extent necessary to 
+     limit the present value of such subsequent shortfall 
+     amortization installments (after application of this 
+     paragraph) to the present value of the remaining unamortized 
+     shortfall amortization base.
+       ``(C) Installment acceleration amount.--For purposes of 
+     this paragraph--
+       ``(i) In general.--The term `installment acceleration 
+     amount' means, with respect to any plan year in a restriction 
+     period with respect to an election year, the sum of--
+
+       ``(I) the aggregate amount of excess employee compensation 
+     determined under subparagraph (D) with respect to all 
+     employees for the plan year, plus
+       ``(II) the aggregate amount of extraordinary dividends and 
+     redemptions determined under subparagraph (E) for the plan 
+     year.
+
+       ``(ii) Annual limitation.--The installment acceleration 
+     amount for any plan year shall not exceed the excess (if any) 
+     of--
+
+       ``(I) the sum of the shortfall amortization installments 
+     for the plan year and all preceding plan years in the 
+     amortization period elected under paragraph (2)(D) with 
+     respect to the shortfall amortization base with respect to an 
+     election year, determined without regard to paragraph (2)(D) 
+     and this paragraph, over
+       ``(II) the sum of the shortfall amortization installments 
+     for such plan year and all such preceding plan years, 
+     determined after application of paragraph (2)(D) (and in the 
+     case of any preceding plan year, after application of this 
+     paragraph).
+
+       ``(iii) Carryover of excess installment acceleration 
+     amounts.--
+
+       ``(I) In general.--If the installment acceleration amount 
+     for any plan year (determined without regard to clause (ii)) 
+     exceeds the limitation under clause (ii), then, subject to 
+     subclause (II), such excess shall be treated as an 
+     installment acceleration amount with respect to the 
+     succeeding plan year.
+       ``(II) Cap to apply.--If any amount treated as an 
+     installment acceleration amount under subclause (I) or this 
+     subclause with respect any succeeding plan year, when added 
+     to other installment acceleration amounts (determined without 
+     regard to clause (ii)) with respect to the plan year, exceeds 
+     the limitation under clause (ii), the portion of such amount 
+     representing such excess shall be treated as an installment 
+     acceleration amount with respect to the next succeeding plan 
+     year.
+       ``(III) Limitation on years to which amounts carried for.--
+     No amount shall be carried under subclause (I) or (II) to a 
+     plan year which begins after the first plan year following 
+     the last plan year in the restriction period (or after the 
+     second plan year following such last plan year in the case of 
+     an election year with respect to which 15-year amortization 
+     was elected under paragraph (2)(D)).
+       ``(IV) Ordering rules.--For purposes of applying subclause 
+     (II), installment acceleration amounts for the plan year 
+     (determined without regard to any carryover under this 
+     clause) shall be applied first against the limitation under 
+     clause (ii) and then carryovers to such plan year shall be 
+     applied against such limitation on a first-in, first-out 
+     basis.
+
+       ``(D) Excess employee compensation.--For purposes of this 
+     paragraph--
+       ``(i) In general.--The term `excess employee compensation' 
+     means, with respect to any employee for any plan year, the 
+     excess (if any) of--
+
+       ``(I) the aggregate amount includible in income under this 
+     chapter for remuneration during the calendar year in which 
+     such plan year begins for services performed by the employee 
+     for the plan sponsor (whether or not performed during such 
+     calendar year), over
+       ``(II) $1,000,000.
+
+       ``(ii) Amounts set aside for nonqualified deferred 
+     compensation.--If during any calendar year assets are set 
+     aside or reserved (directly or indirectly) in a trust (or 
+     other arrangement as determined by the Secretary), or 
+     transferred to such a trust or other arrangement, by a plan 
+     sponsor for purposes of paying deferred compensation of an 
+     employee under a nonqualified deferred compensation plan (as 
+     defined in section 409A) of the plan sponsor, then, for 
+     purposes of clause (i), the amount of such assets shall be 
+     treated as remuneration of the employee includible in income 
+     for the calendar year unless such amount is otherwise 
+     includible in income for such year. An amount to which the 
+     preceding sentence applies shall not be taken into account 
+     under this paragraph for any subsequent calendar year.
+       ``(iii) Only remuneration for certain post-2009 services 
+     counted.--Remuneration shall be taken into account under 
+     clause (i) only to the extent attributable to services 
+     performed by the employee for the plan sponsor after February 
+     28, 2010.
+       ``(iv) Exception for certain equity payments.--
+
+       ``(I) In general.--There shall not be taken into account 
+     under clause (i)(I) any amount includible in income with 
+     respect to the granting after February 28, 2010, of service 
+     recipient stock (within the meaning of section 409A) that, 
+     upon such grant, is subject to a substantial risk of 
+     forfeiture (as defined under section 83(c)(1)) for at least 5 
+     years from the date of such grant.
+
+[[Page H4833]]
+
+       ``(II) Secretarial authority.--The Secretary may by 
+     regulation provide for the application of this clause in the 
+     case of a person other than a corporation.
+
+       ``(v) Other exceptions.--The following amounts includible 
+     in income shall not be taken into account under clause 
+     (i)(I):
+
+       ``(I) Commissions.--Any remuneration payable on a 
+     commission basis solely on account of income directly 
+     generated by the individual performance of the individual to 
+     whom such remuneration is payable.
+       ``(II) Certain payments under existing contracts.--Any 
+     remuneration consisting of nonqualified deferred 
+     compensation, restricted stock, stock options, or stock 
+     appreciation rights payable or granted under a written 
+     binding contract that was in effect on March 1, 2010, and 
+     which was not modified in any material respect before such 
+     remuneration is paid.
+
+       ``(vi) Self-employed individual treated as employee.--The 
+     term `employee' includes, with respect to a calendar year, a 
+     self-employed individual who is treated as an employee under 
+     section 401(c) for the taxable year ending during such 
+     calendar year, and the term `compensation' shall include 
+     earned income of such individual with respect to such self-
+     employment.
+       ``(vii) Indexing of amount.--In the case of any calendar 
+     year beginning after 2010, the dollar amount under clause 
+     (i)(II) shall be increased by an amount equal to--
+
+       ``(I) such dollar amount, multiplied by
+       ``(II) the cost-of-living adjustment determined under 
+     section 1(f)(3) for the calendar year, determined by 
+     substituting `calendar year 2009' for `calendar year 1992' in 
+     subparagraph (B) thereof.
+
+     If the amount of any increase under clause (i) is not a 
+     multiple of $1,000, such increase shall be rounded to the 
+     next lowest multiple of $1,000.
+       ``(E) Extraordinary dividends and redemptions.--
+       ``(i) In general.--The amount determined under this 
+     subparagraph for any plan year is the excess (if any) of the 
+     sum of the dividends declared during the plan year by the 
+     plan sponsor plus the aggregate amount paid for the 
+     redemption of stock of the plan sponsor redeemed during the 
+     plan year over the greater of--
+
+       ``(I) the adjusted net income (within the meaning of 
+     section 4043 of the Employee Retirement Income Security Act 
+     of 1974) of the plan sponsor for the preceding plan year, 
+     determined without regard to any reduction by reason of 
+     interest, taxes, depreciation, or amortization, or
+       ``(II) in the case of a plan sponsor that determined and 
+     declared dividends in the same manner for at least 5 
+     consecutive years immediately preceding such plan year, the 
+     aggregate amount of dividends determined and declared for 
+     such plan year using such manner.
+
+       ``(ii) Only certain post-2009 dividends and redemptions 
+     counted.--For purposes of clause (i), there shall only be 
+     taken into account dividends declared, and redemptions 
+     occurring, after February 28, 2010.
+       ``(iii) Exception for intra-group dividends.--Dividends 
+     paid by one member of a controlled group (as defined in 
+     section 412(d)(3)) to another member of such group shall not 
+     be taken into account under clause (i).
+       ``(iv) Exception for certain redemptions.--Redemptions that 
+     are made pursuant to a plan maintained with respect to 
+     employees, or that are made on account of the death, 
+     disability, or termination of employment of an employee or 
+     shareholder, shall not be taken into account under clause 
+     (i).
+       ``(v) Exception for certain preferred stock.--
+
+       ``(I) In general.--Dividends and redemptions with respect 
+     to applicable preferred stock shall not be taken into account 
+     under clause (i) to the extent that dividends accrue with 
+     respect to such stock at a specified rate in all events and 
+     without regard to the plan sponsor's income, and interest 
+     accrues on any unpaid dividends with respect to such stock.
+       ``(II) Applicable preferred stock.--For purposes of 
+     subclause (I), the term `applicable preferred stock' means 
+     preferred stock which was issued before March 1, 2010 (or 
+     which was issued after such date and is held by an employee 
+     benefit plan subject to the provisions of title I of Employee 
+     Retirement Income Security Act of 1974).
+
+       ``(F) Other definitions and rules.--For purposes of this 
+     paragraph--
+       ``(i) Plan sponsor.--The term ` plan sponsor' includes any 
+     member of the plan sponsor's controlled group (as defined in 
+     section 412(d)(3)).
+       ``(ii) Restriction period.--The term `restriction period' 
+     means, with respect to any election year--
+
+       ``(I) except as provided in subclause (II), the 3-year 
+     period beginning with the election year (or, if later, the 
+     first plan year beginning after December 31, 2009), and
+       ``(II) if the plan sponsor elects 15-year amortization for 
+     the shortfall amortization base for the election year, the 5-
+     year period beginning with the election year (or, if later, 
+     the first plan year beginning after December 31, 2009).
+
+       ``(iii) Elections for multiple plans.--If a plan sponsor 
+     makes elections under paragraph (2)(D) with respect to 2 or 
+     more plans, the Secretary shall provide rules for the 
+     application of this paragraph to such plans, including rules 
+     for the ratable allocation of any installment acceleration 
+     amount among such plans on the basis of each plan's relative 
+     reduction in the plan's shortfall amortization installment 
+     for the first plan year in the amortization period described 
+     in subparagraph (A) (determined without regard to this 
+     paragraph).
+       ``(iv) Mergers and acquisitions.--The Secretary shall 
+     prescribe rules for the application of paragraph (2)(D) and 
+     this paragraph in any case where there is a merger or 
+     acquisition involving a plan sponsor making the election 
+     under paragraph (2)(D).''.
+       (3) Conforming amendments.--Section 430 is amended--
+       (A) in subsection (c)(1), by striking ``the shortfall 
+     amortization bases for such plan year and each of the 6 
+     preceding plan years'' and inserting ``any shortfall 
+     amortization base which has not been fully amortized under 
+     this subsection'', and
+       (B) in subsection (j)(3), by adding at the end the 
+     following:
+       ``(F) Quarterly contributions not to include certain 
+     increased contributions.--Subparagraph (D) shall be applied 
+     without regard to any increase under subsection (c)(7).''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to plan years beginning after December 31, 2007.
+
+     SEC. 202. APPLICATION OF EXTENDED AMORTIZATION PERIOD TO 
+                   PLANS SUBJECT TO PRIOR LAW FUNDING RULES.
+
+       (a) In General.--Title I of the Pension Protection Act of 
+     2006 is amended by redesignating section 107 as section 108 
+     and by inserting the following after section 106:
+
+     ``SEC. 107. APPLICATION OF EXTENDED AMORTIZATION PERIODS TO 
+                   PLANS WITH DELAYED EFFECTIVE DATE.
+
+       ``(a) In General.--If the plan sponsor of a plan to which 
+     section 104, 105, or 106 of this Act applies elects to have 
+     this section apply for any eligible plan year (in this 
+     section referred to as an `election year'), section 302 of 
+     the Employee Retirement Income Security Act of 1974 and 
+     section 412 of the Internal Revenue Code of 1986 (as in 
+     effect before the amendments made by this subtitle and 
+     subtitle B) shall apply to such year in the manner described 
+     in subsection (b) or (c), whichever is specified in the 
+     election. All references in this section to `such Act' or 
+     `such Code' shall be to such Act or such Code as in effect 
+     before the amendments made by this subtitle and subtitle B.
+       ``(b) Application of 2 and 7 Rule.--In the case of an 
+     election year to which this subsection applies--
+       ``(1) 2-year lookback for determining deficit reduction 
+     contributions for certain plans.--For purposes of applying 
+     section 302(d)(9) of such Act and section 412(l)(9) of such 
+     Code, the funded current liability percentage (as defined in 
+     subparagraph (C) thereof) for such plan for such plan year 
+     shall be such funded current liability percentage of such 
+     plan for the second plan year preceding the first election 
+     year of such plan.
+       ``(2) Calculation of deficit reduction contribution.--For 
+     purposes of applying section 302(d) of such Act and section 
+     412(l) of such Code to a plan to which such sections apply 
+     (after taking into account paragraph (1))--
+       ``(A) in the case of the increased unfunded new liability 
+     of the plan, the applicable percentage described in section 
+     302(d)(4)(C) of such Act and section 412(l)(4)(C) of such 
+     Code shall be the third segment rate described in sections 
+     104(b), 105(b), and 106(b) of this Act, and
+       ``(B) in the case of the excess of the unfunded new 
+     liability over the increased unfunded new liability, such 
+     applicable percentage shall be determined without regard to 
+     this section.
+       ``(c) Application of 15-year Amortization.--In the case of 
+     an election year to which this subsection applies, for 
+     purposes of applying section 302(d) of such Act and section 
+     412(l) of such Code--
+       ``(1) in the case of the increased unfunded new liability 
+     of the plan, the applicable percentage described in section 
+     302(d)(4)(C) of such Act and section 412(l)(4)(C) of such 
+     Code for any pre-effective date plan year beginning with or 
+     after the first election year shall be the ratio of--
+       ``(A) the annual installments payable in each year if the 
+     increased unfunded new liability for such plan year were 
+     amortized over 15 years, using an interest rate equal to the 
+     third segment rate described in sections 104(b), 105(b), and 
+     106(b) of this Act, to
+       ``(B) the increased unfunded new liability for such plan 
+     year, and
+       ``(2) in the case of the excess of the unfunded new 
+     liability over the increased unfunded new liability, such 
+     applicable percentage shall be determined without regard to 
+     this section.
+       ``(d) Election.--
+       ``(1) In general.--The plan sponsor of a plan may elect to 
+     have this section apply to not more than 2 eligible plan 
+     years with respect to the plan, except that in the case of a 
+     plan to which section 106 of this Act applies, the plan 
+     sponsor may only elect to have this section apply to 1 
+     eligible plan year.
+       ``(2) Amortization schedule.--Such election shall specify 
+     whether the rules under subsection (b) or (c) shall apply to 
+     an election year, except that if a plan sponsor elects to 
+     have this section apply to 2 eligible plan years, the plan 
+     sponsor must elect the same rule for both years.
+       ``(3) Other rules.--Such election shall be made at such 
+     time, and in such form and manner, as shall be prescribed by 
+     the Secretary of the Treasury, and may be revoked only with 
+     the consent of the Secretary of the Treasury.
+       ``(e) Definitions.--For purposes of this section--
+       ``(1) Eligible plan year.--For purposes of this 
+     subparagraph, the term `eligible plan year' means any plan 
+     year beginning in 2008, 2009, 2010, or 2011, except that a 
+     plan year beginning in 2008 shall only be treated as an 
+     eligible plan year if the due date for the payment of the 
+     minimum required contribution for such plan year occurs on or 
+     after the date of the enactment of this clause.
+       ``(2) Pre-effective date plan year.--The term `pre-
+     effective date plan year' means, with respect to a plan, any 
+     plan year prior to the first year in which the amendments 
+     made by this subtitle and subtitle B apply to the plan.
+       ``(3) Increased unfunded new liability.--The term 
+     `increased unfunded new liability'
+
+[[Page H4834]]
+
+     means, with respect to a year, the excess (if any) of the 
+     unfunded new liability over the amount of unfunded new 
+     liability determined as if the value of the plan's assets 
+     determined under subsection 302(c)(2) of such Act and section 
+     412(c)(2) of such Code equaled the product of the current 
+     liability of the plan for the year multiplied by the funded 
+     current liability percentage (as defined in section 
+     302(d)(8)(B) of such Act and 412(l)(8)(B) of such Code) of 
+     the plan for the second plan year preceding the first 
+     election year of such plan.
+       ``(4) Other definitions.--The terms `unfunded new 
+     liability' and `current liability' shall have the meanings 
+     set forth in section 302(d) of such Act and section 412(l) of 
+     such Code.''.
+       (b) Eligible Charity Plans.--Section 104 of the Pension 
+     Protection Act of 2006 is amended--
+       (1) by striking ``eligible cooperative plan'' wherever it 
+     appears in subsections (a) and (b) and inserting ``eligible 
+     cooperative plan or an eligible charity plan'', and
+       (2) by adding at the end the following new subsection:
+       ``(d) Eligible Charity Plan Defined.--For purposes of this 
+     section, a plan shall be treated as an eligible charity plan 
+     for a plan year if the plan is maintained by more than one 
+     employer (determined without regard to section 414(c) of the 
+     Internal Revenue Code) and 100 percent of the employers are 
+     described in section 501(c)(3) of such Code.''.
+       (c) Effective Date.--
+       (1) In general.--The amendment made by subsection (a) shall 
+     take effect as if included in the Pension Protection Act of 
+     2006.
+       (2) Eligible charity plan.--The amendments made by 
+     subsection (b) shall apply to plan years beginning after 
+     December 31, 2007, except that a plan sponsor may elect to 
+     apply such amendments to plan years beginning after December 
+     31, 2008. Any such election shall be made at such time, and 
+     in such form and manner, as shall be prescribed by the 
+     Secretary of the Treasury, and may be revoked only with the 
+     consent of the Secretary of the Treasury.
+
+     SEC. 203. LOOKBACK FOR CERTAIN BENEFIT RESTRICTIONS.
+
+       (a) In General.--
+       (1) Amendment to erisa.--Section 206(g)(9) of the Employee 
+     Retirement Income Security Act of 1974 is amended by adding 
+     at the end the following:
+       ``(D) Special rule for certain years.--Solely for purposes 
+     of any applicable provision--
+       ``(i) In general.--For plan years beginning on or after 
+     October 1, 2008, and before October 1, 2010, the adjusted 
+     funding target attainment percentage of a plan shall be the 
+     greater of--
+
+       ``(I) such percentage, as determined without regard to this 
+     subparagraph, or
+       ``(II) the adjusted funding target attainment percentage 
+     for such plan for the plan year beginning after October 1, 
+     2007, and before October 1, 2008, as determined under rules 
+     prescribed by the Secretary of the Treasury.
+
+       ``(ii) Special rule.--In the case of a plan for which the 
+     valuation date is not the first day of the plan year--
+
+       ``(I) clause (i) shall apply to plan years beginning after 
+     December 31, 2007, and before January 1, 2010, and
+       ``(II) clause (i)(II) shall apply based on the last plan 
+     year beginning before November 1, 2007, as determined under 
+     rules prescribed by the Secretary of the Treasury.
+
+       ``(iii) Applicable provision.--For purposes of this 
+     subparagraph, the term `applicable provision' means--
+
+       ``(I) paragraph (3), but only for purposes of applying such 
+     paragraph to a payment which, as determined under rules 
+     prescribed by the Secretary of the Treasury, is a payment 
+     under a social security leveling option which accelerates 
+     payments under the plan before, and reduces payments after, a 
+     participant starts receiving social security benefits in 
+     order to provide substantially similar aggregate payments 
+     both before and after such benefits are received, and
+       ``(II) paragraph (4).''.
+
+       (2) Amendment to internal revenue code of 1986.--Section 
+     436(j) of the Internal Revenue Code of 1986 is amended by 
+     adding at the end the following:
+       ``(3) Special rule for certain years.--Solely for purposes 
+     of any applicable provision--
+       ``(A) In general.--For plan years beginning on or after 
+     October 1, 2008, and before October 1, 2010, the adjusted 
+     funding target attainment percentage of a plan shall be the 
+     greater of--
+       ``(i) such percentage, as determined without regard to this 
+     paragraph, or
+       ``(ii) the adjusted funding target attainment percentage 
+     for such plan for the plan year beginning after October 1, 
+     2007, and before October 1, 2008, as determined under rules 
+     prescribed by the Secretary.
+       ``(B) Special rule.--In the case of a plan for which the 
+     valuation date is not the first day of the plan year--
+       ``(i) subparagraph (A) shall apply to plan years beginning 
+     after December 31, 2007, and before January 1, 2010, and
+       ``(ii) subparagraph (A)(ii) shall apply based on the last 
+     plan year beginning before November 1, 2007, as determined 
+     under rules prescribed by the Secretary.
+       ``(C) Applicable provision.--For purposes of this 
+     paragraph, the term `applicable provision' means--
+       ``(i) subsection (d), but only for purposes of applying 
+     such paragraph to a payment which, as determined under rules 
+     prescribed by the Secretary, is a payment under a social 
+     security leveling option which accelerates payments under the 
+     plan before, and reduces payments after, a participant starts 
+     receiving social security benefits in order to provide 
+     substantially similar aggregate payments both before and 
+     after such benefits are received, and
+       ``(ii) subsection (e).''.
+       (b) Interaction With Wrera Rule.--Section 203 of the 
+     Worker, Retiree, and Employer Recovery Act of 2008 shall 
+     apply to a plan for any plan year in lieu of the amendments 
+     made by this section applying to sections 206(g)(4) of the 
+     Employee Retirement Income Security Act of 1974 and 436(e) of 
+     the Internal Revenue Code of 1986 only to the extent that 
+     such section produces a higher adjusted funding target 
+     attainment percentage for such plan for such year.
+       (c) Effective Date.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendments made by this section shall apply to plan years 
+     beginning on or after October 1, 2008.
+       (2) Special rule.--In the case of a plan for which the 
+     valuation date is not the first day of the plan year, the 
+     amendments made by this section shall apply to plan years 
+     beginning after December 31, 2007.
+
+     SEC. 204. LOOKBACK FOR CREDIT BALANCE RULE FOR PLANS 
+                   MAINTAINED BY CHARITIES.
+
+       (a) Amendment to Erisa.--Paragraph (3) of section 303(f) of 
+     the Employee Retirement Income Security Act of 1974 is 
+     amended by adding the following at the end thereof:
+       ``(D) Special rule for certain years of plans maintained by 
+     charities.--
+       ``(i) In general.--For purposes of applying subparagraph 
+     (C) for plan years beginning after August 31, 2009, and 
+     before September 1, 2011, the ratio determined under such 
+     subparagraph for the preceding plan year shall be the greater 
+     of--
+
+       ``(I) such ratio, as determined without regard to this 
+     subparagraph, or
+       ``(II) the ratio for such plan for the plan year beginning 
+     after August 31, 2007, and before September 1, 2008, as 
+     determined under rules prescribed by the Secretary of the 
+     Treasury.
+
+       ``(ii) Special rule.--In the case of a plan for which the 
+     valuation date is not the first day of the plan year--
+
+       ``(I) clause (i) shall apply to plan years beginning after 
+     December 31, 2008, and before January 1, 2011, and
+       ``(II) clause (i)(II) shall apply based on the last plan 
+     year beginning before September 1, 2007, as determined under 
+     rules prescribed by the Secretary of the Treasury.
+
+       ``(iii) Limitation to charities.--This subparagraph shall 
+     not apply to any plan unless such plan is maintained 
+     exclusively by one or more organizations described in section 
+     501(c)(3) of the Internal Revenue Code of 1986.''.
+       (b) Amendment to Internal Revenue Code of 1986.--Paragraph 
+     (3) of section 430(f) of the Internal Revenue Code of 1986 is 
+     amended by adding the following at the end thereof:
+       ``(D) Special rule for certain years of plans maintained by 
+     charities.--
+       ``(i) In general.--For purposes of applying subparagraph 
+     (C) for plan years beginning after August 31, 2009, and 
+     before September 1, 2011, the ratio determined under such 
+     subparagraph for the preceding plan year of a plan shall be 
+     the greater of--
+
+       ``(I) such ratio, as determined without regard to this 
+     subsection, or
+       ``(II) the ratio for such plan for the plan year beginning 
+     after August 31, 2007 and before September 1, 2008, as 
+     determined under rules prescribed by the Secretary.
+
+       ``(ii) Special rule.--In the case of a plan for which the 
+     valuation date is not the first day of the plan year--
+
+       ``(I) clause (i) shall apply to plan years beginning after 
+     December 31, 2007, and before January 1, 2010, and
+       ``(II) clause (i)(II) shall apply based on the last plan 
+     year beginning before September 1, 2007, as determined under 
+     rules prescribed by the Secretary.
+
+       ``(iii) Limitation to charities.--This subparagraph shall 
+     not apply to any plan unless such plan is maintained 
+     exclusively by one or more organizations described in section 
+     501(c)(3).''.
+       (c) Effective Date.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendments made by this section shall apply to plan years 
+     beginning after August 31, 2009.
+       (2) Special rule.--In the case of a plan for which the 
+     valuation date is not the first day of the plan year, the 
+     amendments made by this section shall apply to plan years 
+     beginning after December 31, 2008.
+
+                    Subtitle B--Multiemployer Plans
+
+     SEC. 211. ADJUSTMENTS TO FUNDING STANDARD ACCOUNT RULES.
+
+       (a) Adjustments.--
+       (1) Amendment to erisa.--Section 304(b) of the Employee 
+     Retirement Income Security Act of 1974 (29 U.S.C. 1084(b)) is 
+     amended by adding at the end the following new paragraph:
+       ``(8) Special relief rules.--Notwithstanding any other 
+     provision of this subsection--
+       ``(A) Amortization of net investment losses.--
+       ``(i) In general.--A multiemployer plan with respect to 
+     which the solvency test under subparagraph (C) is met may 
+     treat the portion of any experience loss or gain attributable 
+     to net investment losses incurred in either or both of the 
+     first two plan years ending after August 31, 2008, as an item 
+     separate from other experience losses, to be amortized in 
+     equal annual installments (until fully amortized) over the 
+     period --
+
+       ``(I) beginning with the plan year in which such portion is 
+     first recognized in the actuarial value of assets, and
+       ``(II) ending with the last plan year in the 30-plan year 
+     period beginning with the plan year in which such net 
+     investment loss was incurred.
+
+       ``(ii) Coordination with extensions.--If this subparagraph 
+     applies for any plan year--
+
+       ``(I) no extension of the amortization period under clause 
+     (i) shall be allowed under subsection (d), and
+
+[[Page H4835]]
+
+       ``(II) if an extension was granted under subsection (d) for 
+     any plan year before the election to have this subparagraph 
+     apply to the plan year, such extension shall not result in 
+     such amortization period exceeding 30 years.
+
+       ``(iii) Net investment losses.--For purposes of this 
+     subparagraph--
+
+       ``(I) In general.--Net investment losses shall be 
+     determined in the manner prescribed by the Secretary of the 
+     Treasury on the basis of the difference between actual and 
+     expected returns (including any difference attributable to 
+     any criminally fraudulent investment arrangement).
+       ``(II) Criminally fraudulent investment arrangements.--The 
+     determination as to whether an arrangement is a criminally 
+     fraudulent investment arrangement shall be made under rules 
+     substantially similar to the rules prescribed by the 
+     Secretary of the Treasury for purposes of section 165 of the 
+     Internal Revenue Code of 1986.
+
+       ``(B) Expanded smoothing period.--
+       ``(i) In general.--A multiemployer plan with respect to 
+     which the solvency test under subparagraph (C) is met may 
+     change its asset valuation method in a manner which--
+
+       ``(I) spreads the difference between expected and actual 
+     returns for either or both of the first 2 plan years ending 
+     after August 31, 2008, over a period of not more than 10 
+     years,
+       ``(II) provides that for either or both of the first 2 plan 
+     years beginning after August 31, 2008, the value of plan 
+     assets at any time shall not be less than 80 percent or 
+     greater than 130 percent of the fair market value of such 
+     assets at such time, or
+       ``(III) makes both changes described in subclauses (I) and 
+     (II) to such method.
+
+       ``(ii) Asset valuation methods.--If this subparagraph 
+     applies for any plan year--
+
+       ``(I) the Secretary of the Treasury shall not treat the 
+     asset valuation method of the plan as unreasonable solely 
+     because of the changes in such method described in clause 
+     (i), and
+       ``(II) such changes shall be deemed approved by such 
+     Secretary under section 302(d)(1) and section 412(d)(1) of 
+     such Code.
+
+       ``(iii) Amortization of reduction in unfunded accrued 
+     liability.--If this subparagraph and subparagraph (A) both 
+     apply for any plan year, the plan shall treat any reduction 
+     in unfunded accrued liability resulting from the application 
+     of this subparagraph as a separate experience amortization 
+     base, to be amortized in equal annual installments (until 
+     fully amortized) over a period of 30 plan years rather than 
+     the period such liability would otherwise be amortized over.
+       ``(C) Solvency test.--The solvency test under this 
+     paragraph is met only if the plan actuary certifies that the 
+     plan is projected to have sufficient assets to timely pay 
+     expected benefits and anticipated expenditures over the 
+     amortization period, taking into account the changes in the 
+     funding standard account under this paragraph.
+       ``(D) Restriction on benefit increases.--If subparagraph 
+     (A) or (B) apply to a multiemployer plan for any plan year, 
+     then, in addition to any other applicable restrictions on 
+     benefit increases, a plan amendment increasing benefits may 
+     not go into effect during either of the 2 plan years 
+     immediately following such plan year unless--
+       ``(i) the plan actuary certifies that--
+
+       ``(I) any such increase is paid for out of additional 
+     contributions not allocated to the plan immediately before 
+     the application of this paragraph to the plan, and
+       ``(II) the plan's funded percentage and projected credit 
+     balances for such 2 plan years are reasonably expected to be 
+     at least as high as such percentage and balances would have 
+     been if the benefit increase had not been adopted, or
+
+       ``(ii) the amendment is required as a condition of 
+     qualification under part I of subchapter D of chapter 1 of 
+     the Internal Revenue Code of 1986 or to comply with other 
+     applicable law.
+       ``(E) Reporting.--A plan sponsor of a plan to which this 
+     paragraph applies shall--
+       ``(i) give notice of such application to participants and 
+     beneficiaries of the plan, and
+       ``(ii) inform the Pension Benefit Guaranty Corporation of 
+     such application in such form and manner as the Director of 
+     the Pension Benefit Guaranty Corporation may prescribe.''.
+       (2) Amendment to internal revenue code of 1986.--Section 
+     431(b) is amended by adding at the end the following new 
+     paragraph:
+       ``(8) Special relief rules.--Notwithstanding any other 
+     provision of this subsection--
+       ``(A) Amortization of net investment losses.--
+       ``(i) In general.--A multiemployer plan with respect to 
+     which the solvency test under subparagraph (C) is met may 
+     treat the portion of any experience loss or gain attributable 
+     to net investment losses incurred in either or both of the 
+     first two plan years ending after August 31, 2008, as an item 
+     separate from other experience losses, to be amortized in 
+     equal annual installments (until fully amortized) over the 
+     period --
+
+       ``(I) beginning with the plan year in which such portion is 
+     first recognized in the actuarial value of assets, and
+       ``(II) ending with the last plan year in the 30-plan year 
+     period beginning with the plan year in which such net 
+     investment loss was incurred.
+
+       ``(ii) Coordination with extensions.--If this subparagraph 
+     applies for any plan year--
+
+       ``(I) no extension of the amortization period under clause 
+     (i) shall be allowed under subsection (d), and
+       ``(II) if an extension was granted under subsection (d) for 
+     any plan year before the election to have this subparagraph 
+     apply to the plan year, such extension shall not result in 
+     such amortization period exceeding 30 years.
+
+       ``(iii) Net investment losses.--For purposes of this 
+     subparagraph--
+
+       ``(I) In general.--Net investment losses shall be 
+     determined in the manner prescribed by the Secretary on the 
+     basis of the difference between actual and expected returns 
+     (including any difference attributable to any criminally 
+     fraudulent investment arrangement).
+       ``(II) Criminally fraudulent investment arrangements.--The 
+     determination as to whether an arrangement is a criminally 
+     fraudulent investment arrangement shall be made under rules 
+     substantially similar to the rules prescribed by the 
+     Secretary for purposes of section 165.
+
+       ``(B) Expanded smoothing period.--
+       ``(i) In general.--A multiemployer plan with respect to 
+     which the solvency test under subparagraph (C) is met may 
+     change its asset valuation method in a manner which--
+
+       ``(I) spreads the difference between expected and actual 
+     returns for either or both of the first 2 plan years ending 
+     after August 31, 2008, over a period of not more than 10 
+     years,
+       ``(II) provides that for either or both of the first 2 plan 
+     years beginning after August 31, 2008, the value of plan 
+     assets at any time shall not be less than 80 percent or 
+     greater than 130 percent of the fair market value of such 
+     assets at such time, or
+       ``(III) makes both changes described in subclauses (I) and 
+     (II) to such method.
+
+       ``(ii) Asset valuation methods.--If this subparagraph 
+     applies for any plan year--
+
+       ``(I) the Secretary shall not treat the asset valuation 
+     method of the plan as unreasonable solely because of the 
+     changes in such method described in clause (i), and
+       ``(II) such changes shall be deemed approved by the 
+     Secretary under section 302(d)(1) of the Employee Retirement 
+     Income Security Act of 1974 and section 412(d)(1).
+
+       ``(iii) Amortization of reduction in unfunded accrued 
+     liability.--If this subparagraph and subparagraph (A) both 
+     apply for any plan year, the plan shall treat any reduction 
+     in unfunded accrued liability resulting from the application 
+     of this subparagraph as a separate experience amortization 
+     base, to be amortized in equal annual installments (until 
+     fully amortized) over a period of 30 plan years rather than 
+     the period such liability would otherwise be amortized over.
+       ``(C) Solvency test.--The solvency test under this 
+     paragraph is met only if the plan actuary certifies that the 
+     plan is projected to have sufficient assets to timely pay 
+     expected benefits and anticipated expenditures over the 
+     amortization period, taking into account the changes in the 
+     funding standard account under this paragraph.
+       ``(D) Restriction on benefit increases.--If subparagraph 
+     (A) or (B) apply to a multiemployer plan for any plan year, 
+     then, in addition to any other applicable restrictions on 
+     benefit increases, a plan amendment increasing benefits may 
+     not go into effect during either of the 2 plan years 
+     immediately following such plan year unless--
+       ``(i) the plan actuary certifies that--
+
+       ``(I) any such increase is paid for out of additional 
+     contributions not allocated to the plan immediately before 
+     the application of this paragraph to the plan, and
+       ``(II) the plan's funded percentage and projected credit 
+     balances for such 2 plan years are reasonably expected to be 
+     at least as high as such percentage and balances would have 
+     been if the benefit increase had not been adopted, or
+
+       ``(ii) the amendment is required as a condition of 
+     qualification under part I of subchapter D or to comply with 
+     other applicable law.
+       ``(E) Reporting.--A plan sponsor of a plan to which this 
+     paragraph applies shall--
+       ``(i) give notice of such application to participants and 
+     beneficiaries of the plan, and
+       ``(ii) inform the Pension Benefit Guaranty Corporation of 
+     such application in such form and manner as the Director of 
+     the Pension Benefit Guaranty Corporation may prescribe.''.
+       (b) Effective Dates.--
+       (1) In general.--The amendments made by this section shall 
+     take effect as of the first day of the first plan year ending 
+     after August 31, 2008, except that any election a plan makes 
+     pursuant to this section that affects the plan's funding 
+     standard account for the first plan year beginning after 
+     August 31, 2008, shall be disregarded for purposes of 
+     applying the provisions of section 305 of the Employee 
+     Retirement Income Security Act of 1974 and section 432 of the 
+     Internal Revenue Code of 1986 to such plan year.
+       (2) Restrictions on benefit increases.--Notwithstanding 
+     paragraph (1), the restrictions on plan amendments increasing 
+     benefits in sections 304(b)(8)(D) of such Act and 
+     431(b)(8)(D) of such Code, as added by this section, shall 
+     take effect on the date of enactment of this Act.
+
+                    TITLE III--BUDGETARY PROVISIONS
+
+     SEC. 301. BUDGETARY PROVISIONS.
+
+       The budgetary effects of this Act, for the purpose of 
+     complying with the Statutory Pay-As-You-Go-Act of 2010, shall 
+     be determined by reference to the latest statement titled 
+     ``Budgetary Effects of PAYGO Legislation'' for this Act, 
+     submitted for printing in the Congressional Record by the 
+     Chairman of the Senate Budget Committee, provided that such 
+     statement has been submitted prior to the vote on passage.
+       Amend the title so as to read: ``An Act to provide a 
+     physician payment update, to provide pension funding relief, 
+     and for other purposes.''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Michigan (Mr. Levin) and the gentleman from California (Mr. Herger) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Michigan.
+  Mr. LEVIN. Mr. Speaker, I ask unanimous consent that 10 minutes of my 
+time be controlled by the gentleman
+
+[[Page H4836]]
+
+from California (Mr. Waxman), the chairman of the Energy and Commerce 
+Committee, on the Senate amendments to H.R. 3962.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Michigan?
+  There was no objection.
+  Mr. LEVIN. Mr. Speaker, I yield myself such time as I shall use.
+  This is a flawed bill that we are now considering. We are forced to 
+consider it because of the Republican filibuster of action on the jobs 
+and tax bill now pending in the other body. This bill does not 
+adequately address the need for a longer-term solution to avoid the 
+disastrous cut in Medicare physician reimbursement that is currently 
+impacting doctors and, most importantly, seniors and military 
+servicemembers.
+  Republicans in the other body have been stonewalling the basic bill, 
+the jobs bill, week after week after week. Doing so, they have placed a 
+hammerlock on the lives of millions of Americans. A much better course 
+would be for Republicans in the other body to begin to side with the 
+American people instead of stonewalling against them, and not with 
+their party leaders nor the Tea Party, and allow a straight up-or-down 
+vote on the comprehensive jobs bill pending in the other body.
+  Instead, they are willing to put politics before people, and they are 
+leaving millions of unemployed workers thrown out of work by this 
+recession through no fault of their own without their unemployment 
+insurance benefits. Instead, they seem willing to let loopholes that 
+permit jobs to be shipped overseas continue to remain open. 
+Republicans, in a word, are saying to the American people that they 
+care more about their political futures than they do the daily lives of 
+millions and millions of Americans.
+  We will not let that stand. We will continue to stand on the side of 
+seniors and the physicians who treat them, on the side of unemployed 
+workers and their families, on the side of millions who are looking for 
+jobs, on the side of youth seeking employment, and on the side of those 
+who would benefit from tax measures and bond measures that are 
+supporting millions of jobs.
+  I reserve the balance of my time.
+  Mr. HERGER. Mr. Speaker, I yield myself such time as I may consume.
+  For the fourth time in 6 months, Democrats' inability to properly 
+manage the Medicare program is causing doctors to confront a 21 percent 
+cut in their Medicare reimbursement rates. In fact, this cut went into 
+effect on June 1, forcing Medicare to pay claims for physicians' 
+services with the 21 percent cut. In practical terms, this means that 
+for a standard office visit, physicians are now being paid $8 less than 
+they received in 2007. This is unacceptable and irresponsible.
+  As a result of the Democrats' failure to address this issue in a 
+timely manner, tens of millions of taxpayer dollars will be required to 
+reprocess these claims and send new checks to doctors, all because the 
+majority Democrats could not finish their work on time.
+  Physicians' practices, like most small businesses, are hurt by the 
+dereliction of duty. Dr. Joel Bolen from Montgomery, Alabama, said 
+about the delayed payments, quote, ``We have already eliminated one 
+staff position, and that has resulted in a major reduction in some 
+services.'' Dr. Jen Brull from Plainville, Kansas, had to juggle a 
+$10,000 temporary drop in revenue while claims were held up when 
+payments were delayed for 15 days in April of this year, a major stress 
+on a small practice.
+  Senior citizens have been hurt as well. Earlier this week, one of my 
+constituents visited my office in Redding, California, to share his 
+story. His doctor is not accepting any more Medicare patients until 
+Congress deals with the 21 percent cut. As a result, he has been forced 
+to postpone an essential surgery.
+  The new president of the American Medical Association, Dr. Cecil 
+Wilson, said, ``This is no way to run a major health coverage program. 
+Already the instability caused by repeated short-term delays is taking 
+its toll.'' The newspaper Politico declared that ``never before has 
+Congress allowed such a deep Medicare cut to go into effect at this 
+scale.''
+  The legislation before us provides physicians with a 6-month reprieve 
+of the 21 percent cut by providing them a 2.2 percent rate increase 
+through November. But after November, the 21 percent cut returns. And 1 
+month after that, the cut goes even deeper, totaling 26 percent in 
+January. Perhaps my friends on the other side of the aisle believe this 
+will be someone else's problem in December.
+  Mr. Speaker, ironically, the bill before us today uses the same bill 
+number as the Democrats' health bill that passed the House in November 
+of last year. It's ironic, because Republicans argued for months that 
+the Democrats should address the flawed Medicare physician payment 
+formula in their health care overhaul. After all, if they could find 
+more than one-half trillion dollars in cuts to Medicare, you would 
+think they could find a couple dollars to fix the SGR; except, they 
+didn't, allowing them to shield the true cost of their trillion-dollar 
+government takeover of health care. It's one of the many reasons we 
+should replace that flawed law with reform Americans can afford, and 
+then we can address a true long-term fix for our doctors.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. WAXMAN. Mr. Speaker, I rise in support of this suspension, and I 
+yield myself such time as I may consume.
+  After all is said and done, no one can say this is a great bill. It's 
+a disappointment. It's an embarrassment that we are here today to ask 
+for only 5 months' extension for the doctors who take care of our 
+Medicare patients to be paid for the work that they are doing. But it 
+has come to this.
+  Because of the dysfunctional rules in the United States Senate, they 
+could not get a bill for jobs passed. They could not get FMAP to assist 
+the States for their Medicaid payment. They couldn't get extension of 
+unemployment insurance. People are losing their unemployment insurance, 
+or if they lose their jobs, they won't have it available to them.
+  What we have before us is one little piece. It is at least for 5 
+months to extend the physician fee reimbursement. I can't say that we 
+should be proud of this. This should have been fixed permanently. And 
+this is the best we can do, so let's vote ``aye.''
+  I reserve the balance of my time and urge my colleagues to support 
+the suspension.
+  Mr. HERGER. Mr. Speaker, I yield 2 minutes to the gentlewoman from 
+Florida (Ms. Ginny Brown-Waite).
+
+                              {time}  1650
+
+  Ms. GINNY BROWN-WAITE of Florida. I thank the gentleman for yielding.
+  Mr. Speaker, I rise today in support of the Preservation of Access to 
+Care for Medicare Beneficiaries and Pension Relief Act that we have 
+before us.
+  For too long my Democrat colleagues have been playing games with the 
+physician reimbursement fix. Playing chicken with the deadline time and 
+time and time again and putting Medicare beneficiaries at risk while 
+hurting small businesses across the country.
+  I've the highest number of constituents on Medicare of any Member of 
+Congress. Believe me, I have heard from them loud and clear that they 
+are disgusted with how long it took because their doctors are indeed 
+refusing to take patients.
+  Whether it's the handling of the oil spill or their inability to put 
+together a budget, it seems that even the basic responsibilities of 
+running the government have become far too difficult for them. I'm glad 
+to see this bill finally come before the House today, but I would 
+remind all of our constituents that this could have been prevented. 
+Months ago, my Republican colleagues and I offered and voted for a 
+longer fix that would have been fully paid for.
+  Americans are tired of the credit card mentality of Washington. This 
+is a voting card, ladies and gentlemen. It is not a credit card.
+  Mr. LEVIN. I yield 1 minute to the gentlewoman from Nevada (Ms. 
+Berkley), a distinguished member of the Ways and Means Committee.
+  Ms. BERKLEY. Thank you, Mr. Chairman, for your extraordinary work.
+  Every day I receive calls from dedicated physicians who tell me that 
+if this 21 percent cut goes through they are no longer going to be able 
+to continue to treat their Medicare patients. They're not threatening 
+me when they say it. They're talking the truth. They
+
+[[Page H4837]]
+
+simply can no longer afford to treat their senior patients.
+  Doctors are small business people. They've got payrolls to make and 
+rent to pay, utilities, just like the rest of us; but time is long past 
+due to permanently fix the way doctors in this country get compensated 
+for treating Medicare patients. We need to fix this SGR. We need to fix 
+it permanently.
+  We're playing a very dangerous political game with our seniors' 
+health care, and we are forcing doctors to make unspeakable choices. I 
+am supporting this 6-month fix to keep the doctors working and to give 
+seniors the health care that they deserve and that they are entitled 
+to, but I would urge my Republican colleagues in the Senate that they 
+should do what's right by the American people and let's get this thing 
+permanently fixed.
+  Mr. HERGER. I yield 1 minute to the gentleman from Tennessee (Mr. 
+Roe), who is also a physician.
+  Mr. ROE of Tennessee. I thank the gentleman for yielding.
+  Why was this so hard? House Republicans have been saying for months 
+that we'd be happy to support legislation ensuring seniors have access 
+to doctors. They were warned to cut spending to stop the deficits from 
+going any higher. Doctors and patients both are benefiting under this 
+legislation, but today's headline should be this: bipartisan solutions 
+are possible when the majority tries to meet the minority halfway.
+  When we cut spending, we can address many of the critical problems 
+facing our country. Hopefully, today's bill isn't the end of bipartisan 
+cooperation. Our economy is still in dire straits, and Republicans can 
+help Democrats get people back to work only if the majority lets us. 
+Otherwise, the job loss and exploding deficits we've seen for the past 
+18 months will only continue, and no one benefits from that.
+  I can tell you as a physician three things will happen with these 
+cuts: one, patients lose access to doctors; two, the quality of their 
+care goes down; and, three, their costs will go up.
+  I urge my colleagues to support this legislation.
+  Mr. WAXMAN. Mr. Speaker, I yield 2 minutes to the gentleman from New 
+Jersey (Mr. Pallone), distinguished chairman of the Health Subcommittee 
+of Energy and Commerce.
+  Mr. PALLONE. Thank you, Mr. Waxman.
+  I'm listening to the debate on the other side of the aisle, and I 
+just can't believe what I hear. We passed, the House Democrats, the 
+majority, passed a comprehensive permanent fix to the SGR, and we only 
+had one Republican vote on the other side.
+  I heard the gentleman from California say it's not someone else's 
+problem. That's true. It's also the Republican problem. You have a 
+responsibility as Republicans to help us out, and you're not helping us 
+out at all. When this jobs bill that included the SGR, and that was a 
+2-year fix, passed a couple of weeks ago here in the House, we had just 
+a handful of Republican votes; and that's what it's been all along, 
+Republicans not willing to do anything for any kind of permanent fix 
+for this SGR for the physicians' reimbursement rate or not voting for 2 
+years. Now, we're down to 6 months because that's all we have left.
+  And I don't like it anymore than anybody else, but I'm going to vote 
+for it today; and I hope that all of you will join us in voting for it. 
+When you talk about the fact we have a problem here, the problem is 
+you're not willing to help us out.
+  I heard the gentleman from Tennessee who is a physician say, well, 
+it's got to be paid for. Well, where are the cuts that he's proposing 
+to pay for it? In other social programs and other jobs? That's the 
+problem here. We had a comprehensive jobs package that included this 
+SGR. It would have had a summer jobs program. It had a lot of things to 
+put Americans back to work, bring jobs back from overseas, tax cuts, 
+and changes in the Tax Code that would have made a difference.
+  But we don't get any Republican support. We don't get anything. All 
+you do is sit there and say that you want to solve this problem, but 
+don't put up any votes or come up with any solutions whatsoever. So 
+we're forced today to deal with this and we're going to vote for it, 
+but if I keep hearing more and more about permanent fix, there's no 
+support on the other side of the aisle for permanent fix. Don't kid 
+those doctors and make them believe that you're going to vote for some 
+kind of permanent fix. You never have. I don't see it.
+  I remember when you were in the majority and we kept kicking the can 
+down the road. We inherited this mess from all of you. So don't sit 
+here and talk about what you're going to do to make a difference. 
+You're not helping at all. You're not solving the problem. You're part 
+of the problem, not part of the solution.
+  Mr. HERGER. Just in response, we as Republican last November had a 4-
+year fix that was paid for, and I might mention that the legislation 
+that the gentleman was referring to that we opposed had a $200 billion 
+deficit on it, and that's why we opposed it.
+  Mr. Speaker, while I intend to support this bill and urge its 
+passage, our work does not end here. We must find a long-term, stable 
+and fiscally responsible solution to this problem.
+  I yield the balance of my time to the gentleman from Illinois (Mr. 
+Shimkus).
+  The SPEAKER pro tempore. Without objection, the gentleman from 
+Illinois will control the time.
+  There was no objection.
+  Mr. SHIMKUS. I yield such time as he may consume to the gentleman 
+from Texas, Dr. Burgess.
+  Mr. BURGESS. I thank the gentleman for yielding.
+  Just as a historical note, I think I should point out when it comes 
+to this issue, there's actually plenty of blame to go around because 
+after all it was in 1988 when a Democratic Congress, voting under the 
+Omnibus Budget Reconciliation Act of 1988, created this problem under 
+the guise of the RVRBS, and it's gone through several names and several 
+acronyms since then. But that's when it began.
+  It was really a very predictable consequence of Congress' 
+interference in the practice of medicine. Since 1988, there have been 
+multiple Congresses; there have been multiple administrations, both 
+Republican and Democratic. The opportunity to fix this thing has been 
+there, but it has not been taken.
+  Patching the payment system is extremely unsatisfactory, but the 
+alternative is absolutely unthinkable. Let me tell you this for a 
+minute what it means in a one- or two-doctor office practicing primary 
+care when the head of CMS holds your paycheck for 1 week, 2 weeks, now 
+3 weeks. Even if you're doing as little as 15 percent Medicare in your 
+business, that cash flow that's disrupted across the counter means that 
+that doctor's office is likely not going to be able to take a paycheck 
+that month; and what's even worse, they may have to go out and borrow 
+money for operational expenses.
+  I know that never troubles this Congress to borrow money for 
+operational expenses--we do it all the time--but when you're a small 
+businessperson and you're borrowing for operational expenses, it's 
+extremely frightening because you don't know when you're going to be 
+able to make that up.
+  Now, we have a bill that's retroactive to the first of the month so 
+those checks will be reissued, and that's a good thing. Unfortunately, 
+the expiration date on this bill is November 30. As was pointed out 
+previously by the ranking member on the Ways and Means Health 
+Subcommittee on December 31 of this year a 26 percent reduction occurs.
+  What happens in early November of this year is that every private 
+insurance company that pegs its reimbursement to Medicare is going to 
+recalculate its reimbursement based on that 26 percent if we don't do 
+something before then.
+
+                              {time}  1700
+
+  Let us commit, with this window of opportunity that we have given 
+ourselves between now and November 30, that we are going to work on 
+this problem.
+  I've had a bill up there some time, H.R. 3693. Yes, it's problematic 
+because of the cost, but it's not a real cost because we've already 
+dispensed that money to the doctors; the doctors have already used that 
+to run their practices. This is ``Bernie Madoff'' accounting that 
+should make any one of us in this body ashamed to continue it.
+
+[[Page H4838]]
+
+  Let's recommit to fixing this problem. Let's redouble our efforts. 
+Let's leave aside the partisanship. I will remind some of the speakers 
+on the other side, I have voted with you on this issue in the past. I 
+didn't like the policy you put forward. I thought it was very bad 
+policy at the time, but it was worth it to me to get this issue solved 
+because our Nation's seniors, our patients, our doctors depend upon 
+this.
+  Mr. LEVIN. Mr. Speaker, I yield myself 15 seconds.
+  The gentleman acknowledges he voted for a permanent fix. He was the 
+only one on the Republican side. There was nobody else. You have 
+refused, on the Republican side, to vote for a permanent fix.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. LEVIN. I yield myself another 15 seconds.
+  Instead, we're stuck with this bill because we could not get a single 
+vote for a bill that is better than this in the Senate from a 
+Republican. That's why we're here today.
+  I now yield 1 minute to the gentleman from Georgia (Mr. Scott).
+  Mr. SCOTT of Georgia. We have a unique opportunity today. I've heard 
+from the other side, the Republicans, who are saying that they want to 
+have a permanent fix. We on the Democratic side have shown that by 
+pushing forward, we had a $68 billion bill that went over to the Senate 
+that would do that.
+  Now, ladies and gentlemen, people all across this Nation are paining, 
+they are crying to see this House of Representatives work in a 
+bipartisan way, and there is no more critical or important issue to 
+show that than on this issue.
+  The future of our health care system rests on the ability to be able 
+to have our physicians to be able to receive payment for their 
+services. I've talked to physicians--I talked to a group of them 
+today--and many of them not only are refusing to serve Medicare 
+patients now, but they're losing hope in the health care system.
+  We've just passed a new health care bill. It's going to bring 37 
+million more people on, many of them are going to be senior citizens. 
+We're growing more senior citizens. Let's be fair to our physicians. 
+Let's save our health care system. And let us come together as 
+Democrats and Republicans this day and come back and get a permanent 
+fix on this issue.
+  Mr. SHIMKUS. Mr. Speaker, I reserve the balance of my time.
+  Mr. WAXMAN. Mr. Speaker, I am pleased at this time to yield 1 minute 
+to the chairman emeritus of the Energy and Commerce Committee, the 
+gentleman from Michigan (Mr. Dingell).
+  (Mr. DINGELL asked and was given permission to revise and extend his 
+remarks.)
+  Mr. DINGELL. Mr. Speaker, we have before us a wonderful opportunity; 
+we can begin to solve a problem that's going to destroy our medical 
+care system in this country.
+  Doctors are abandoning Medicare patients because they can no longer 
+afford to serve them. And it is turning out that we are now finding 
+that we are losing the capability of addressing one of the greatest 
+health problems we've got, and that is seeing to it that physicians do 
+take care of our people and that they have the necessary resources to 
+do it.
+  This is a proposal which has to be adopted today. I commend the 
+gentleman from Texas who has urged the House to work together, and I 
+commend him for having had the courage to say so, but it is something 
+that we must do.
+  We came close to having this issue solved with a permanent fix. The 
+law of interest, compounded interest, tells us that we have a big 
+problem. The numbers in this have grown to $210 billion, and they will 
+grow more. It is time that the House resolves this question so we can 
+assure that we take care of our people, we deal with their health, we 
+preserve Medicare, and we do what is necessary to carry out our 
+responsibility in a fiscally responsible way.
+  We are, in good part, in this mess because of the United States 
+Senate, which diligently disregards its responsibilities on all matters 
+of this kind. And regrettably, as we look to see, we find that this is 
+the best thing that we can do because they refuse to do better. They 
+will tell us that because of their incompetence, we must therefore bow 
+to them and do things the way they only can do them.
+  I urge my colleagues to vote for this legislation. And then let us 
+prepare to work together to try and resolve this matter because the 
+time is wasting and the whole system is about to collapse because of 
+our failure to properly address it.
+  Mr. SHIMKUS. Mr. Speaker, I continue to reserve the balance of my 
+time.
+  Mr. LEVIN. Mr. Speaker, I yield 1 minute to the gentleman from New 
+York (Mr. Maffei).
+  (Mr. MAFFEI asked and was given permission to revise and extend his 
+remarks.)
+  Mr. MAFFEI. Mr. Speaker, many of the doctors in my Upstate New York 
+district have started to turn away new Medicare patients because of the 
+21 percent cut that has already started, and seniors are fearful that 
+their physicians may soon drop out of Medicare altogether. Those 
+doctors who still accept seniors have taken huge risks with their 
+practice. At a time when we should be promoting improved access to 
+physicians, a doctor payment cut of this magnitude will only decrease 
+access, especially for our seniors, and sometimes with tragic results.
+  Seniors and their doctors should not pay the price for partisan 
+politics. They should have the peace of mind to know that the doctor of 
+their choice will be available to see them. And physicians should know 
+that the work they perform will be reimbursed fairly, without having to 
+worry about cuts month after month.
+  Now, Mr. Speaker, while it is clear that the Medicare payment system 
+is broken and needs to be fixed permanently, there is an urgent need to 
+provide an immediate and temporary solution. If you cannot cure the 
+patient, at least find a treatment. If you cannot administer a long-
+term treatment, at least stop the bleeding.
+  Mr. Speaker, this band-aid is just that. It stops the bleeding 
+temporarily. But lives and livelihoods are hanging in the balance. We 
+have made a commitment to provide for our seniors, and I will stand 
+with our seniors and our physicians.
+  Mr. SHIMKUS. I continue to reserve the balance of my time.
+  Mr. WAXMAN. Mr. Speaker, I am pleased to yield 1 minute to a very 
+important member of our committee, the gentleman from Texas (Mr. Gene 
+Green).
+  (Mr. GENE GREEN of Texas asked and was given permission to revise and 
+extend his remarks.)
+  Mr. GENE GREEN of Texas. I thank the chair of the full Energy and 
+Commerce Committee for yielding.
+  To my Republican colleagues, we make history on the floor of the 
+House, and we did when we passed the health care bill, but you can't 
+rewrite it. The House passed a bill, H.R. 3961, that only had one 
+Member from the Republican Party who voted for that bill that was the 
+permanent fix for this doctor situation so that our doctors wouldn't be 
+cut 21 percent as of last week. One vote, and it was my colleague from 
+Texas, Dr. Burgess. That's why this is so important today.
+  We wish we could pass a better bill and a long-term fix, but we can't 
+get it through the United States Senate; so we're going to November. 
+You had a chance to step up and do it, but you didn't do it. We passed 
+that bill with only one Republican vote.
+  This legislation is so important because Medicare is so important. 
+Our seniors need to be able to go to a doctor, and yet we're seeing 
+doctors say they can't afford to treat them anymore because we didn't 
+do the permanent fix. That's why this bill is so important today, to 
+get us through November. Hopefully we will be able to then do a 
+permanent fix so doctors will be able to see our senior citizens.
+  Mr. Speaker, I rise today in support of Preservation of Access to 
+Care for Medicare Beneficiaries and Pension Relief Act.
+  This legislation will prevent a 21-percent cut in Medicare physician 
+payment reimbursements through November 30, and makes the so-called doc 
+fix retroactive to June 1, when a previous stop gap measure expired.
+  While Congress enacted stop-gap measures for rate cuts scheduled for 
+several months, yesterday CMS began mailing reimbursement checks to 
+physicians who accept Medicare with the 21-percent reduction in their 
+reimbursement.
+
+[[Page H4839]]
+
+  This legislation before us today is another temporary fix and amends 
+the legislation we sent to the Senate, which would be a permanent fix 
+to the Medicare physician payment system, but we need to ensure that 
+our seniors will continue to have access to their physicians and 
+doctors will continue to accept Medicare.
+  It is clear that this current physician payment system contains some 
+inherent flaws that must be addressed to ensure the long term viability 
+of Medicare and access to beneficiaries.
+  My hometown of Houston contains some of the world's best medical 
+facilities, where the scope of care is unmatched.
+  Yet, I meet physicians working in every medical specialty who say 
+that this current Medicare physician payment system threatens our 
+Medicare beneficiaries' access to the health care that they provide.
+  I support the legislation today to ensure our physicians will not 
+receive a 21-percent cut in their Medicare reimbursement rates, but in 
+November we will need to revisit this issue and enact a permanent fix 
+to the physician payment system.
+  Mr. SHIMKUS. I continue to reserve the balance of my time.
+  Mr. LEVIN. Mr. Speaker, I reserve the balance of my time.
+  Mr. WAXMAN. Mr. Speaker, I am pleased to yield 1 minute to the 
+gentlewoman from the Virgin Islands (Mrs. Christensen).
+  Mrs. CHRISTENSEN. Thank you for yielding, Mr. Chairman.
+  Mr. Speaker, this is not what we should be doing. What is needed is a 
+permanent fix for the SGR. But I do urge my colleagues to vote for at 
+least a short-term measure that would stop the 21 percent cut in 
+physician reimbursement.
+  As a family physician who had a practice that was at least one-third 
+Medicare patients, I know how low the reimbursement is for the 
+important work we do after long years of training. That cut and the one 
+slated to follow would have cause many physicians to close their doors 
+to some of the individuals who need it most. Even when I was in 
+practice over 14 years ago, the fees were so low that I was one of a 
+handful of doctors who saw Medicare patients. It has only gotten worse 
+since then.
+  And it is not that doctors don't want to take care of the elderly and 
+disabled patients, it is what we went into the profession to do; but to 
+be able to do that, we have to be able to meet our overhead, pay staff, 
+purchase supplies, and take care of our families. The 2.2 percent 
+increase is a start, but doctors need certainty and stability.
+
+                              {time}  1710
+
+  The other body and our colleagues on the other side of the aisle need 
+to step up and support what Democrats tried to do during health care 
+reform. We need to help doctors provide the care that they want to 
+provide to our seniors. Let us fix the SGR once and for all, even if we 
+have to do it as part of a supplemental. Ensuring the care of some of 
+our most vulnerable is that important and that urgent.
+  Mr. SHIMKUS. Mr. Speaker, I continue to reserve the balance of my 
+time.
+
+
+                             General Leave
+
+  Mr. LEVIN. Mr. Speaker, I ask unanimous consent that all Members have 
+5 legislative days in which to revise and extend their remarks and to 
+include extraneous material on the Senate amendments to H.R. 3962.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Michigan?
+  There was no objection.
+  Mr. LEVIN. Mr. Speaker, I reserve the balance of my time.
+  Mr. WAXMAN. Mr. Speaker, I am pleased at this time to yield 1 minute 
+to another important member of our committee, the gentleman from Texas 
+(Mr. Gonzalez).
+  Mr. GONZALEZ. Mr. Speaker, I rise in favor of this piece of 
+legislation. As we only have about a minute, my observation, after 
+listening to all of my colleagues and to my dear friends, is thank God 
+physicians don't practice medicine the way we practice enacting 
+legislation.
+  Can you imagine if you were wheeled into the emergency room? You'd 
+have five qualified physicians, and they'd all start arguing about, 
+``How are we going to save the life of this particular patient?'' They 
+don't come to any real conclusion. Some say, We need to do this 
+immediately. Some of them say, We can wait 6 months. Others say, We can 
+wait 2 years.
+  It doesn't work. It doesn't work in that operating room, and it 
+shouldn't work in this Chamber. We are all in agreement. We are all in 
+agreement that it is broken, and now we have given the other side a 
+chance to work with us.
+  Last year, as it has already been pointed out, we had something that 
+was for an extended period of time that was going to work on a solution 
+which would give the doctors the kind of predictability they require in 
+order to have practices where they can open their doors in the morning, 
+but we only got one vote from the other side. You know, let's all put 
+that aside today. Let's start working together. It's 6 months. It's not 
+long enough. We acknowledge it. Let us just rededicate ourselves to 
+making sure that doctors can practice medicine.
+  Mr. SHIMKUS. Mr. Speaker, I continue to reserve the balance of my 
+time.
+  Mr. WAXMAN. Mr. Speaker, I am pleased at this time to yield 1 minute 
+to the gentlewoman from Texas (Ms. Sheila Jackson Lee).
+  Ms. JACKSON LEE of Texas. Mr. Speaker, I rise today to support the 
+permanent fix for doctors. That's what we have been saying as Democrats 
+for more than a year.
+  I want to thank the leadership, who has taken the calls of Members 
+who are representing their doctors and seniors and who are saying we 
+have got to do this.
+  So let me tell the doctors of America: Look at what your friends look 
+like--Democrats, who have been fighting over and over again. I promised 
+physicians in my area, the doctors who work in inner city 
+neighborhoods, that we were not going to leave them without help.
+  I hope the other body and my friends on the other side of the aisle, 
+the Republicans, will really understand the facts. We have to join 
+together. Doctors help save lives. They tend to our seniors. It is 
+important that they have the reimbursement they need.
+  We rise today to support the 6-month fix, but we rise today to say 
+the Democrats have been fighting to get this right. We are going to get 
+it right. We are going to provide for the physicians. We are going to 
+stop this 21 percent cut, and we are going to provide doctors for 
+Americans who are waiting for us to do our jobs.
+  Support the legislation.
+  Physicians, your friends are us.
+  Mr. Speaker, I rise today in strong support of H.R. 3962, the 
+``Preservation of Access to Care for Medicare Beneficiaries and Pension 
+Relief Act of 2010,'' a provision that retroactively reverses the 21 
+percent cut in Medicare payments to physicians scheduled for June 1, 
+2010; and also provides a 2.2 percent status report to physician 
+payments through November 30, 2010. This provision also protects 
+TRICARE military families dedicated to the service of this nation.
+  Mr. Speaker, I would like to pay special tribute to my good friend, 
+Chairman Henry Waxman, for his lifetime of devoted service to the cause 
+of affordable health care for all Americans. I also thank the 
+Democratic leadership, led by Speaker Pelosi, making health care 
+affordable for Medicare beneficiaries a central issue. Democrats 
+promised to chart a new direction for America if given the chance to 
+lead. Today, we take another giant step toward fulfilling that promise.
+  For nearly a decade, Medicare patients and the doctors who treat them 
+have been held hostage by short-term patches to an unworkable 
+Sustainable Growth Rate (SGR) formula. In the months to come, I look 
+forward to working with Members of Congress from both sides of the 
+aisle to repeal the SGR formula and to replace it with a permanent 
+physician payment system for Medicare that rewards value and ends the 
+uncertainty for patients and providers alike. In addition, the bill 
+provides enhanced Medicaid funding to states to assist them with the 
+added costs of providing health coverage to underserved and 
+underrepresented individuals and for home and community based services 
+that must be extended.
+  Under current law, all outpatient services provided within three days 
+before an inpatient admission and are related to the inpatient 
+admission must be included in the bundled payment for that admission. 
+The provision closes a loophole that had allowed the unbundling of 
+services and submission of adjustment claims seeking separate and 
+additional Medicare payments. This provision provides temporary, 
+targeted funding relief for single employer and multiemployer pension 
+plans that suffered significant losses in asset value due to the steep
+
+[[Page H4840]]
+
+market slide in 2008. Employers that elect the relief would be required 
+to make additional contributions to the plan if they pay compensation 
+to any employee in excess of $1 million, pay extraordinary dividends, 
+or engage in extraordinary stock buybacks during the first part of the 
+relief period. Additional relief is available to certain plans 
+sponsored by charitable organizations.
+  Mr. Speaker, this provision will provide much needed fiscal relief to 
+the states and to unemployed individuals.
+  Although this fix is for 6 months, I am committed to working with my 
+colleagues to deliver a permanent fix for our nation's physicians, and 
+I am committed to fight for critical job-creating measures, on behalf 
+of all of the American people and to strengthen our economy, as well as 
+such vital provisions as extending unemployment benefits for the 
+millions who have lost their jobs through no fault of their own.
+  We must uphold our responsibility to the seniors and persons with 
+disabilities who depend upon the Medicare program and the military 
+families who depend upon the TRICARE program. The 21 percent cut in 
+fees that physicians are seeing now is jeopardizing the relationship 
+between Medicare and TRICARE patients and their doctors, and we cannot 
+allow that to stand. This is a matter of whether seniors will have 
+access to care or whether that access to care will be diminished 
+because doctors will no longer be able to afford to continue to sustain 
+their businesses with the cuts under the SGR for Medicare. That is why 
+I support passage of this legislation. Over the months we struggled 
+with Republicans over this issue.
+  I continuously spoke to doctors in my district to say, I would not 
+forget this important issue. I worked with the leadership, voted for a 
+permanent fix and continued to call on the Senate to move this bill. 
+Now we have a temporary fix of 6 months.
+  However, I will work for a permanent fix with the Democratic 
+leadership in spite of those of my Republican colleagues who oppose it. 
+I believe in bipartisanship to help doctors and patients including 
+seniors, get reimbursed and get the care they need.
+  I support this legislation.
+  Mr. SHIMKUS. Mr. Speaker, I reserve the balance of my time.
+  Mr. WAXMAN. Mr. Speaker, I yield 1 minute to the gentleman from New 
+Jersey (Mr. Andrews).
+  (Mr. ANDREWS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. ANDREWS. I thank my friend for yielding.
+  Mr. Speaker, a lot of Americans seem to have been misled that they 
+are not going to be able to see their doctors under Medicare anymore 
+because of some legislation that came out of here. This bill today 
+makes it emphatically clear that that is emphatically not true.
+  The bill today restores the full reimbursement rate for doctors and 
+for other providers who see America's senior citizens. The majority of 
+us wanted to make that a permanent fix last summer. Only one minority 
+Member voted for that. Just a few weeks ago, the majority of us wanted 
+to extend that far beyond this. Almost no one on the minority side 
+voted for that. Today, I assume just about everybody is going to vote 
+for this, and I'm glad, but let the record be clear: No one here is 
+prepared to see a day when Medicare doctors turn their patients away. 
+That is not the truth.
+  Mr. SHIMKUS. Mr. Speaker, I yield myself the balance of my time.
+  I appreciate the comments. I was going to be cool, calm, and 
+collected, of course, as I normally am on the committee, Mr. Chairman, 
+as you know. But of course, I am required to respond to just a couple 
+of points.
+  I agree with my colleague who just spoke that we want to get this 
+fixed and that we want to do it now, and I'm going to talk about the 
+importance of paying for it. Though, the public has to understand that 
+we are 39 seats in the minority. The only bipartisan vote was the 
+``no'' vote on the health care bill. For the protestations that, from 
+the Republicans, there was only one vote, the reality is you could do 
+whatever you want, but the bipartisan vote was ``no'' against the 
+health care bill.
+  Why? $500 billion cuts in Medicare--and we talked about this 
+yesterday in committee--not on Medicare Advantage but on hospital cuts, 
+on doc cuts across the board, and on tax increases. $1 trillion in new 
+spending.
+  You'd think, if you're going to spend $1 trillion more, you could fix 
+this. In fact, you all promised it, but because of the policy and the 
+politics, you had to accept the Senate bill that really didn't do it. 
+The promises you made to some doctor organization you could not keep. 
+That is why we are here again.
+  We know the CBO and we know the CMS actuary say premiums are going to 
+go up and that benefits are going to be cut. Our health care system is 
+going to change because we are going to migrate away from the employer-
+based health care system. Some of us believe that was the intent of the 
+law that you passed. So there is an important part of this debate:
+  First of all, we have a $13.5 trillion debt. Now, I'm not going to 
+lay that all on my colleagues' shoulders, because a lot of it is our 
+fault. We get it. We were put in the minority because of our frivolous, 
+reckless spending, but I think you'd better be very, very careful that 
+you're going down that same path. A $13.5 trillion debt makes the 
+argument to the public today that we have to pay for things, that we 
+have to pay for the services that we think are important.
+  As for all of the other things on the spending side that this was 
+connected to, we didn't pay for it all. I don't know about you and your 
+districts, but my folks are saying, Stop going into debt. Stop 
+obligating yourselves to things that we cannot pay for. Stop mortgaging 
+our grandchildren's futures.
+  So that's what this is about. That's why we support this bill, 
+because you know what? It's paid for. Maybe we are getting the message. 
+Maybe we are turning the corner. Maybe we realize now that, if it's 
+important enough to have, it's important enough to pay for.
+  This costs $6.4 billion. It is a 2.2 percent increase in 
+reimbursement levels. If the bill is not passed, Medicare physicians 
+will face a 20 percent reduction in reimbursement rates. We want them 
+to see our seniors, and we want them to be paid for their services.
+  It's curious. It ends in November. Things happen in November. 
+December is not paid for. January is not paid for. In fact, as we went 
+along this process, we had month extensions throughout this process 
+instead of addressing the issue early on. I'll be honest, Mr. Speaker, 
+we'll accept a lot of our blame for the position we're in.
+
+                              {time}  1720
+
+  But we're not in the majority now. And the public has changed, and 
+they say, Start paying for the services that you think are important, 
+whether it's discretionary or it's entitlement. And that's why we 
+support this bill. The doctors need it.
+  I appreciate my colleagues and their support in the debate.
+  I yield back the balance of my time.
+  Mr. WAXMAN. Mr. Speaker, in the 30 seconds I have left, let's pass 
+this bill and go on to fix this problem. We owe it to the seniors who 
+were promised Medicare coverage. And Medicare coverage means that they 
+ought to have access to physicians who are paid for the care that they 
+give those Medicare recipients.
+  I urge an ``aye'' vote.
+  I yield back the balance of my time.
+  Mr. LEVIN. Mr. Speaker, I yield myself the balance of my time.
+  I understand the Senate is about to vote--I think has begun its 
+vote--on the comprehensive jobs bill, helping to pay for it, so that 
+companies don't ship jobs overseas. So what we're doing now, in view of 
+what seems inevitable in the Senate, is take up one piece of that bill. 
+The SGR provision is in the bill now before the Senate, and that, I'm 
+afraid, will be turned down. And what the fact is, we have to act 
+because patients, military personnel, their physicians, need action. 
+But it's the inaction of Republicans in the other House; it really is 
+bringing us to this point.
+  And despite efforts, and valiant efforts, by the majority leader in 
+the Senate, in the other House, and the Finance chair in the other 
+body, it now seems absolutely certain there won't be a single 
+Republican vote for that comprehensive bill that has this piece in it.
+  What the Democrats in the other body have faced is a Republican 
+phalanx, without a single one on the minority side willing to step up 
+and vote for a bill that this country needs. So I serve notice: We on 
+this side will not give up. A million and half Americans today who are 
+out of work, who are looking for work, have lost their benefits because 
+of the phalanx in the other
+
+[[Page H4841]]
+
+body. There's reference to turning the corner here. No. The minority in 
+the other House, as was true here, have been turning their backs.
+  So much is at stake. I mentioned just a few parts of that bill--the 
+R tax credit; Build America Bonds that have helped put millions of 
+people to work; provisions regarding housing; summer employment for 
+300,000 young people who want to work, who need work. So because of 
+this phalanx among Republicans in the other body, as was true here, we 
+were faced with this alternative to pass this so-called fix now.
+  And it's interesting. We tried some months ago to have a permanent 
+resolution of this. And, as mentioned, only one Republican voted for 
+it. In May, we had a 19-month provision in the jobs bill, and it just 
+could not pass the Senate, apparently, and very, very few, if any, here 
+on the Republican side supported it.
+  So here we are. A Republican phalanx. So we're going to act on this 
+bill. And I assure you, we on this side will not give up on the basic 
+interest of the American people.
+  Mr. VAN HOLLEN. Mr. Speaker, I rise in support of legislation to 
+retroactively reverse a 21 percent payment cut for doctors in Medicare 
+and TRICARE and update the flawed Medicare physician payment formula.
+  Rather than the 21 percent payment cut, physicians will see a 2.2 
+percent update in their payment rates through November, 30, 2010. 
+Though I would prefer a permanent, long-term solution to this problem, 
+this legislation is necessary so that Medicare beneficiaries can 
+continue to see their doctor of choice and access the care they need. 
+The uncertainty of payments is causing difficulties for physicians who 
+provide services under Medicare because their practices cannot 
+adequately plan for the expenses they incur for treating Medicare 
+beneficiaries.
+  Congress needs to fix this problem in a permanent manner. The House 
+has passed legislation this Congress that would have done exactly that. 
+Unfortunately, it was blocked in the Senate.
+  Mr. Speaker, while I urge my colleagues to support this bill before 
+us, I also urge all my colleagues in both the House and Senate to 
+recommit themselves to passing legislation that will permanently fix 
+Medicare payments to physicians.
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I rise today in support of 
+provisions contained in H.R. 3962, which will temporarily fix the 
+Sustainable Growth Rate--or SGR--formula. This legislation will undo 
+the twenty-one percent cut in Medicare reimbursements to physicians 
+that took place on June 1st. Without prompt action, these cuts will do 
+serious harm to physicians and patients alike.
+  With a 21 percent cut, payments to physicians would be well below 
+their overhead costs and could jeopardize continued access for Medicare 
+beneficiaries to their physicians. We have a duty to our retirees to be 
+there for them when they are in need, so I fully and enthusiastically 
+support the provisions that restore Medicare reimbursement rates.
+  However, I want to register my profound concern over a provision in 
+H.R. 3962 that utilizes a new application of what's known as the ``72-
+hour rule'' as an offset for the SGR temporary fix. This provision 
+dictates how a hospital must bundle certain Medicare payments for 
+reimbursement.
+  My home state of Florida was among the states included in the first 
+round of the Recovery Audit Contractors Program, overseeing the 72-hour 
+rule. Some Florida hospitals that have undergone audits had either 
+inadvertently overbilled or underbilled.
+  Hospitals that inadvertently overbilled are obligated to repay the 
+appropriate amount, and have already done so. But, hospitals that 
+inadvertently underbilled, would be immediately precluded, if this 
+passes, from resubmitting claims in compliance with existing 
+regulations to recoup underpayments.
+  It is my understanding that many hospitals are still reviewing a 
+large number of possible underpayments for submittal. If they are 
+precluded from resubmitting claims because of changes in this 
+legislation, Florida hospitals could face $225 million in losses. This 
+retroactive application constitutes changing the rules of the game 
+after the services were provided, and is simply not fair to providers.
+  We owe it to both our physicians and our hospitals to treat them 
+fairly when they care for our seniors under Medicare. Assuming this 
+legislation becomes law, I strongly encourage the Centers for Medicare 
+and Medicaid Services to administer this new application of the 72-hour 
+rule in the most equitable manner possible and limit the adverse 
+impacts on hospitals to the greatest extent possible.
+  Ms. SCHAKOWSKY. Mr. Speaker, this week, the first round of provider 
+payments with a 21 percent cut was sent to physicians who treat 
+Medicare beneficiaries.
+  This drastic reduction in reimbursements is quite simply 
+unacceptable. Doctors in my district who provide life-saving care to 
+seniors and people with disabilities have called me to say they won't 
+be able to see Medicare patients much longer. Patients have called 
+begging that we prevent the cuts.
+  I am a strong supporter of a permanent fix to the flawed sustainable 
+growth rate that continues to create instability for providers and 
+uncertainty for Medicare beneficiaries.
+  H.R. 3961, which passed the House in November 2009, would have 
+responsibly fixed the flawed formula--but Senate Republicans have 
+refused to come to the table to negotiate a permanent solution. For 
+that reason, while I will vote for this bill to stop the pay cuts, I 
+think it falls far short of what is needed.
+  Under the pay-go agreement, we had agreed to fix physician payments 
+without taking money from other parts of Medicare until December 31, 
+2011. I am disappointed that we have not stuck to this original 
+agreement.
+  Senate Amendments to H.R. 3962--also known as the physician payment 
+fix--is not perfect legislation. But without action this cut will 
+create a crisis for Medicare beneficiaries and providers. I simply 
+cannot allow that to happen, and will vote in support of this bill.
+  This bill will ensure that doctors who see Medicare patients over the 
+next six months receive fair payments. It will ensure that senior 
+citizens and persons with disabilities have access to their doctors. 
+And it gives us time to permanently fix the flawed formula. It is not 
+perfect, but it would be irresponsible not to act.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I voted for this legislation 
+because it avoided deep reductions to Medicare physician pay but was 
+offset to avoid any increase in the deficit. While I support this 
+legislation, I have some concerns about where this leads us in the 
+future.
+  First, this legislation illustrates why we must fundamentally reform 
+Medicare. Our Nation's physicians who treat Medicare beneficiaries 
+currently face a 21 percent reduction. It is critically important that 
+we correct this. Although this legislation provides a much-needed 
+temporary solution, it makes the Medicare physician problem even 
+greater when this short-term fix expires in six months, requiring a 26 
+percent reduction to payment rates. That is completely untenable.
+  Unfortunately, that is precisely the path that the health care bill 
+enacted earlier this year puts us on. In addition to Medicare and 
+Medicaid's obligations, that bill created two new health care 
+entitlements. I think this legislation is the sign of things to come. 
+We will increasingly face difficult reductions to medical providers or 
+require that health care be rationed through government bureaucracies. 
+We will be told that to avoid this we need to either run up the debt or 
+raise taxes on the American people. I think that is a false choice and 
+we should instead fundamentally reform these programs to put them on a 
+sustainable path.
+  Second, I have some concerns with the pension relief provisions of 
+this bill. Companies are struggling to get by due to a stagnant 
+economy. This legislation will provide temporary pension relief. Under 
+our cash-based budget, these pension relief provisions produce savings 
+over the next ten years. We do not have a full analysis of the long-
+term consequences of the pension provisions, but it appears these 
+savings are likely to be more than offset by greater federal 
+obligations that will appear outside the ten year window we use to 
+enforce the budget. While this pension relief may make sense in today's 
+economic environment, we need to explore the budgetary impact of these 
+pension provisions to get a better understanding of the full impact 
+before we pursue this as an offset for future legislation.
+  Mr. LEVIN. I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Michigan (Mr. Levin) that the House suspend the rules 
+and concur in the Senate amendments to the bill, H.R. 3962.
+
+
+ =========================== NOTE =========================== 
+
+  
+  June 24, 2010 on Page H4841 the following appeared: The 
+gentleman from California (Mr.
+  
+  The online version should be corrected to read: The gentleman 
+from Michigan (Mr.
+
+
+ ========================= END NOTE ========================= 
+
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. SHIMKUS. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+
+
+
+
+    

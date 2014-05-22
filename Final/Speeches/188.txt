@@ -1,0 +1,235 @@
+
+        
+
+
+[Pages S7289-S7290]
+               PATIENT PROTECTION AND AFFORDABLE CARE ACT
+
+  Mr. COBURN. Mr. President, I believe Congress should reexamine the 
+federally mandated medical loss ratios in the Patient Protection and 
+Affordable Care Act. Today I will outline four reasons I believe 
+consumers will face increased costs, decreased choice, and reduced 
+competition.
+  The Patient Protection and Affordable Care Act, PPACA, included a 
+provision that requires all health plans to adhere to a medical loss 
+ratio, MLR, established in law. The MLR refers to the percentage of 
+premium revenues for health insurance plans spent on medical claims. 
+Thus, if a plan received $100 of premiums and spent $85 on medical 
+claims its MLR would be 85 percent.
+  Beginning no later than January 1, 2011, PPACA requires a health 
+insurance issuer to provide an annual rebate to each enrollee if the 
+ratio of the amount of premium revenue expended by the issuer on 
+clinical claims and health quality costs, after accounting for several 
+factors such as certain taxes and reinsurance, is less than 85 percent 
+in the large group market and 80 percent in the small group and 
+individual markets.
+  Supporters of PPACA tend to herald the newly created, higher MLR 
+requirement as providing ``better value'' for policyholders compared to 
+a lower MLR. To the untrained ear, perhaps higher MLRs sound better 
+since they force health insurance plans are required to spend a larger 
+percentage of each dollar on medical claims.
+  Jamie Robinson, a professor in the School of Public Health at the 
+University of California at Berkley, noted that numerous organizations 
+``have assailed low medical loss ratios as indicators of reduction in 
+the quality of care provided to enrollees and sponsored legislation 
+mandating minimum ratios.'' However, he rightly concludes that while 
+``this is politically the most volatile and analytically the least 
+valid use of the statistic.''
+  In fact, a close examination of the data suggests there are several 
+reasons to be concerned with the one-size-fits-all federally mandated 
+MLRs in PPACA. Here are four key reasons why PPACA's MLRs will likely 
+negatively impact American consumers and patients.
+  First, insurance markets across the country threaten to destabilize. 
+During the health reform debate, opponents of the Federal takeover of 
+health care warned that the federally mandated MLR could endanger the 
+high-quality health coverage many Americans enjoy because it could lead 
+to market destabilization in some States. Under PPACA, States are 
+permitted to adjust the percentage for the individual market only if 
+the Secretary of Health and Human Services grants them a waiver because 
+the Secretary determines that the health insurance market would 
+otherwise be destabilized. Unsurprisingly, a total of 15 States have 
+applied for a waiver from the MLR. This means that nearly one in three 
+States has found that the MLR could destabilize their market and 
+threaten consumers' coverage.
+  A review of the data shows why States are concerned. According to a 
+study published in The American Journal of Managed Care, the specific 
+impactof the new medical loss rules on the individual health insurance 
+market ``has the potential to significantly affect the functioning of 
+the individual market for health insurance.'' Using data from the 
+National Association of Insurance Commissioners, the study's authors 
+``provided state-level estimates of the size and structure of the U.S. 
+individual market from 2002 to 2009'' and then ``estimated the number 
+of insurers expected to have MLRs below the legislated minimum and 
+their corresponding enrollment.'' They found that in 2009, ``29 percent 
+of insurer-state observations in the individual market would have [had] 
+MLRs below the 80 percent minimum, corresponding to 32 percent of total 
+enrollment. Nine states would have atleast one-half of their health 
+insurers below the threshold.''
+  The study explained the impact in ``member years,'' which requires 
+some explanation. Most health insurance policies typically have a 12-
+month duration, but individuals can enroll or disenroll on a monthly 
+basis. As a result, much of the accounting and actuarial calculations 
+that a health insurance plan makes are in member month or year terms. A 
+member year is 12 member months and could be one individual or multiple 
+persons. For example, if an individual is enrolled for 12 months, that 
+is one member year, or if two people are enrolled for just 6 months 
+each, that is one member year. The study found that ``if insurers below 
+the MLR threshold exit the market, major coverage disruption could 
+occur for those in poor health,'' and they ``estimated the range to be 
+between 104,624 and 158,736 member-years.'' This empirical analysis 
+highlights the huge disruption American consumers may face. As health 
+insurers consolidate, stop offering some insurance products, or exit 
+the market place altogether, Americans who like the high-quality 
+private health plan they have will lose it. This effect would undermine 
+the President's promise to Americans that if they like the health care 
+plan they have, they could keep it.
+  There is a second concern: Instead of consumers receiving ``better 
+value,'' consumers face increased costs. Despite often-repeated 
+arguments that federally mandated MLRs will result in ``better value'' 
+for consumers, there is little substance to back up this claim. The 
+assumption behind this claim is that spending more cents of a health 
+care dollar directly on care is inherently better. But this may not 
+necessarily be the case. University of California, Berkley, professor 
+Jamie Robinson has studied the issue of MLRs closely, and he noted in 
+Health Affairs that the connection between the MLR and good value is 
+not as clear as some would claim. ``The medical loss ratio never was 
+and never will be an indicator of clinical quality,'' he said. In fact, 
+Professor Robinson explained that ``neither premiums nor expenditures 
+by themselves indicate quality of care. More direct measures of quality 
+are available, including patient satisfaction surveys, preventive 
+services use, and severity-adjusted clinical outcomes. Although each of 
+these is limited in scope, they at least shed light on quality of care. 
+The medical loss ratio does not.''
+  While the MLR cannot guarantee better value for consumers, it can 
+lead to higher premium costs. As the Congressional Research Services 
+explained,
+
+[[Page S7290]]
+
+the MLR provision in PPACA requires health insurance plans ``to pay 
+rebates to their members if a certain percentage of their premiums are 
+not spent on medical costs. This provision may provide an incentive for 
+health insurance companies to reduce their compensation to and/or 
+utilization of producers as they seek to reduce their administrative 
+costs in relation to their medical costs.''
+  In this scenario, unintended consequences are important to consider. 
+For example, an insurer may increase premiums in another product to 
+make up for lost revenues in one where a rebate is issued. Also 
+insurers may be incentivized to scale back utilization management 
+techniques as a result of the MLR requirement. Accordingly the 
+underlying medical trend which drives premium costs would increase for 
+everyone in the risk pool, therefore leading to higher premiums for all 
+consumers who have a health plan with that company.
+  Costs for consumers may also increase because of increased fraud in 
+the system. Because insurance plans are economically discouraged from 
+activities not directly connected to medical care, there is a perverse 
+incentive to reduce efforts to police fraud such as conducting 
+utilization reviews and data analysis to root out individuals who 
+defraud the system. This is such a significant problem that it was 
+highlighted in congressional testimony before a House subcommittee 
+earlier this year. ``Given the role that health plan fraud prevention 
+and detection programs have played in establishing effective models for 
+public programs, improved data for law enforcement, and successful 
+prevention efforts, we believe the MLR regulation's treatment of such 
+programs should be reevaluated,'' said the witness. According to the 
+testifying witness, the specific concern is `` the MLR regulation only 
+provides a credit for fraud `recoveries'-- i.e., funds that were paid 
+out to providers and then recovered under pay and chase' initiatives.'' 
+This effectively discourages preventative measures:
+
+       The MLR regulation's treatment of fraud prevention expenses 
+     works at cross purposes with new government efforts to 
+     emulate successful private sector programs, and it is at odds 
+     with the broad recognition by leaders in the private and 
+     public sectors that there is a direct link between fraud 
+     prevention activities and improved health care quality and 
+     outcomes.
+
+  Ironically, this myopic focus on MLRs obscures the best tool to 
+evaluate the value of a health insurance product: consumer choice. As 
+Professor Robinson explained:
+
+       The best indicator of current and expected future value in 
+     a market economy is the willingness of the consumer to 
+     purchase and retain the product. In health care, this 
+     translates into measures of growth in enrollment and 
+     revenues, adjusted for disenrollments and changes in prices. 
+     Plans that are growing are offering something for which 
+     purchasers are willing to vote with their dollars and 
+     consumers are willing to vote with their feet.
+
+  Let me turn to my third concern. Consumers face fewer choices, less 
+competition in the marketplace. As noted previously, the MLR threatens 
+to destabilize several markets by pushing some health insurance plans 
+to stop offering some insurance products, or exit the market place 
+altogether. The Congressional Research Service explained this more in 
+detail in a memo to Congress. CRS said the MLR ``requirements of PPACA 
+will place downward pressures on administrative expenses, including the 
+use of insurance producers. Thus, there will be an incentive for 
+insurance companies to cut back on the use of producers or reduce their 
+commissions in order to rein in their administrative expenses. Some 
+observers, including associations of producers, have suggested that the 
+regulatory and market changes resulting from PPACA could put producers 
+out of business.''
+  The very allowance in PPACA for waivers from the MLR provision is a 
+tacit admission the one-size-fits-all MLR approach mandated under PPACA 
+is neither in the best interest of consumer choice nor competition 
+among health plans in many insurance markets across the country. 
+President Obama once publicly pushed for a government-run health plan 
+under the auspices of more ``choice and competition,'' Unfortunately, 
+the controversial health care law he signed is set to reduce choice and 
+competition for millions of American consumers.
+  Mr. President, finally, the new mlr mandates further the government 
+takeover of health care. Much ink has been spilled about the claim that 
+PPACA represents a government takeover of health care. In my view, 
+there is no disputing this claim. Even before the passage of PPACA, the 
+nonpartisan Congressional Research Service issued a report showing that 
+60 percent of health care spending in the United States is controlled 
+by State, local, and Federal governments. Now, after passage of the 
+controversial health care law, the Federal Government will effectively 
+regulate health insurance markets and dictate what types of health 
+coverage Americans can buy--even penalizing employers and consumers who 
+do not offer or purchase coverage. The law also massively expands the 
+Medicaid Program--a program that began as a Federal-State partnership 
+but that has evolved into a gimmick-ridden program threatening State 
+budgets and too often promising patients coverage while denying them 
+access to care. The law also includes hundreds of new powers for the 
+Secretary of Health and Human Services and creates dozens of new 
+programs that will further interfere in the practice of medicine. Yes, 
+the law is a government takeover of health care.
+  Interestingly, the nonpartisan Congressional Budget Office warned 
+that if the MLRs in PPACA were only slightly higher, PPACA would result 
+in a complete government takeover of all health insurance. In a 
+December 2009 analysis, CBO warned that if the MLRS were 5 percentage 
+points higher, all private insurance would become ``an essentially 
+governmental program.'' In fact, this CBO analysis--publicized before 
+the health care bills became law-- may be one key reason the Democrats 
+refrained from pushing for a 90-percent MLR. CBO warned that if a 90-
+percent MLR were adopted, ``taken together with the significant 
+increase in the Federal government's role in the insurance market under 
+the PPACA, such a substantial loss in flexibility would lead CBO to 
+conclude that the affected segments of the health insurance market 
+should be considered part of the federal budget.'' If the bills' 
+authors had, in fact, included a 90-percent MLR, they would have faced 
+critics waving a CBO analysis affirming the government takeover of the 
+health insurance industry was complete. However, even with this 
+determination, CBO appeared to admit that determining at what point a 
+high MLR triggers a complete government takeover of the insurance 
+industry was not entirely cut and dry. CBO said, ``Setting a precise 
+minimum MLR that would trigger such a determination under the PPACA is 
+difficult, because MLRs fall along a continuum.''
+  Mr. President, in the end though, CBO settled on 90 percent as the 
+tipping point, though, as they noted, any ``further expansion of the 
+Federal Government's role in the health insurance market would make 
+such insurance an essentially governmental program, so that all 
+payments related to health insurance policies should be recorded as 
+cash flows in the federal budget.'' In other words, this was just about 
+as close as the Democrats could get without even CBO admitting it was a 
+complete government takeover of the health insurance markets.
+
+                          ____________________
+
+
+
+
+    
