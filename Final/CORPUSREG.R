@@ -1,21 +1,16 @@
-source("Phrases.R")
-
 #LOAD ALL THE DATA
-OCdata <- read.csv("C:/Users/Mike/Google Drive/Data Mining/finalproject/OCdata2.csv")
-
-#BREAK OFF THE TEXT WITH ID CODES
+OCdata <- read.csv("OCdata2.csv")
 textmatch<-OCdata[,c("IDX", "exp")]
 textmatch[,3:5]<-""
-
 
 library(SnowballC)
 library(stringr)
 library(tm)
 library(textir)
-library(DAAG)
 library(gamlr)
 library(maptpx)
-
+source("Phrases.R")
+source("predreport.R")
 allonewords<-""
 alltwowords<-""
 allthreewords<-""
@@ -46,20 +41,21 @@ for (i in 1:nrow(textmatch)){
 
 TARGET<-which(OCdata$targetS==1)
 YY<-OCdata[TARGET,]$prefOC
-dt <- DocumentTermMatrix(Corpus(VectorSource(textmatch[,4])))
+dt <- DocumentTermMatrix(Corpus(VectorSource(textmatch[,5])))
 dtm<-dt[TARGET,]
-dtm <- removeSparseTerms(dtm, sparse= 0.994)
+dtm <- removeSparseTerms(dtm, sparse= 0.999)
 ncol(dtm)
-
 wordSM2 <- sparseMatrix(i=dtm$i, j=dtm$j, x=dtm$v,
                         dims=c(dtm$nrow, dtm$ncol))
 P <- as.data.frame(as.matrix(wordSM2))
 colnames(P)<-colnames(dtm)
 
-linfit <- gamlr(P, y=YY, 
-                lambda.min.ratio=1e-2)
-plot(linfit)
+rowTotals <- apply(P , 1, sum) #Find the sum of words in each Document
+remove <- which(rowTotals==0); length(remove)
 
+#GAMLR on all words
+linfit <- gamlr(P, y=YY, lambda.min.ratio=1e-2)
+plot(linfit)
 Blin <- drop(coef(linfit)) # AICc
 #Blin[order(Blin, decreasing=T)[1:20]]
 Blin[which(abs(Blin)>0)]
@@ -82,7 +78,6 @@ summary(pcreg)
 yhat <- predict(pcreg,as.data.frame(zdf))
 cor(YY,yhat)^2 
 
-
 draws<-vector()
 for(i in 1:10){
   Spred<-(1*(yhat>median(yhat))
@@ -93,7 +88,108 @@ for(i in 1:10){
 print(100*round(mean(draws), 3))
 
 
-  
+
+#TOPICS  
+TMcol<-3
+yhat<-list()
+dev.off()
+par(mfrow=c(1,2), cex=1.5)
+for (TT in 0:1){
+  TARGET<-which(OCdata$targetS==TT)
+  YY<-OCdata[TARGET,]$prefOC
+  dt <- DocumentTermMatrix(Corpus(VectorSource(textmatch[,TMcol])))
+  dtm <- dt[TARGET,] #not removing sparse terms
+  # [4a] BUILD TOPIC MODEL  
+  tpcs <- topics(dtm,K=5*(1:5),tol=10)  
+  summary(tpcs, n=10)   
+  # [4b] IS TOPIC MODEL GAMLR
+  treg<-gamlr(tpcs$omega, y=YY,lambda.min.ratio=1e-3)
+  plot(treg, main=paste("Topic Reg OCSupport =", TT, sep=" "))
+  print(drop(coef(treg))*0.1) #AICc #Shows topics support or oppose OC  
+#   cor(YY,yhat)^2
+#   yhat<-predict(treg,tpcs$omega)
+  yhat[[TT+1]] <- as.vector(predict(treg,tpcs$omega))
+}
+
+predreport(yhat[[2]], yhat[[1]])
+
+
+
+
+# MNIR
+cl=NULL
+fitCS <- mnlm(cl, YY, P, bins=5,gamma=1)
+B <- coef(fitCS)
+B[2,order(B[2,])[1:10]]
+B[2,order(-B[2,])[1:10]]
+z <- srproj(B,as.matrix(P))
+
+mnirfit <- gamlr(z, y=YY, lambda.min.ratio=1e-3)
+plot(mnirfit)
+Bmnir <- drop(coef(mnirfit)) # AICc
+Bmnir[which(abs(Bmnir)>0)]
+yhat <- as.vector(predict(mnirfit,z))
+cor(YY,yhat)^2 
+hist(yhat)
+
+summary(fwd <- lm(YY ~ z)) 
+plot(fwd$fitted ~ factor(YY), 
+     varwidth=TRUE, col="lightslategrey")
+
+plot(z, pch=21, main="SR projections")
+
+
+
+#MNIR looped
+TMcol<-5
+yhat<-list()
+dev.off()
+for (TT in 0:1){
+  TARGET<-which(OCdata$targetS==TT)
+  YY<-OCdata[TARGET,]$prefOC
+  dt <- DocumentTermMatrix(Corpus(VectorSource(textmatch[,TMcol])))
+  dtm <- removeSparseTerms(dt[TARGET,], sparse= 0.999)
+  wordSM2 <- sparseMatrix(i=dtm$i, j=dtm$j, x=dtm$v,
+                          dims=c(dtm$nrow, dtm$ncol))
+  P <- as.data.frame(as.matrix(wordSM2)); length(P)
+  colnames(P)<-colnames(dtm)
+  cl=NULL
+  fitCS <- mnlm(cl, YY, P, bins=5,gamma=1)
+  B <- coef(fitCS)
+#   mean(B[-1,]==0) # sparsity in loadings
+  print(B[2,order(B[2,])[1:10]])
+  print(B[2,order(-B[2,])[1:10]])
+  z <- srproj(B,as.matrix(P))
+  print(summary(fwd <- lm(YY ~ z)))
+  par(mfrow=c(1,2),cex=1.5)
+  #PLOT THE LINEAR MODEL        
+  plot(fwd$fitted ~ factor(YY), 
+       varwidth=TRUE, col="lightslategrey",
+       xlab="PrefOC", ylab="z", pch=20,
+       main=paste("LM fit from MNIR OCSupport =", TT, sep=" ")) 
+  #PLOT Z VS M(PHRASE LENGTH)
+  plot(z, pch=20, main=paste("SR Projection OCSupport=", TT, sep=" "),
+       ylab="number of phrases", xlab="z")  
+  mnirfit <- gamlr(z, y=YY, lambda.min.ratio=1e-2)
+  Bmnir <- drop(coef(mnirfit)) # AICc
+  Bmnir[which(abs(Bmnir)>0)]  
+  yhat[[TT+1]] <- as.vector(predict(mnirfit,z))
+}
+
+dev.off()
+
+predreport(yhat[[2]], yhat[[1]])
+
+
+
+
+
+
+yhat <- as.vector(predict(mnirfit,z))
+cor(YY,yhat)^2 
+
+
+
 
 
 
@@ -103,3 +199,9 @@ print(100*round(mean(draws), 3))
 # ##OOS R2
 # 1-lassoPCR$cvm[lassoPCR$seg.min]/cv.binfit$cvm[1]
 # 1-lassoPCR$cvm[lassoPCR$seg.1se]/cv.binfit$cvm[1] 
+
+
+# rowTotals <- apply(P , 1, sum) #Find the sum of words in each Document
+# remove <- which(rowTotals==0)
+# length(remove)
+
