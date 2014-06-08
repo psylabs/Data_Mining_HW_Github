@@ -1,50 +1,81 @@
-#This file attempts to accomplish exactly what textstart does (+more) with Corpus()
+#LOAD ALL THE DATA
+OCdata <- read.csv("OCdata2.csv")
+textmatch<-OCdata[,c("IDX", "exp")]
+textmatch[,3:5]<-""
+
+library(SnowballC)
 library(stringr)
 library(tm)
-library(tree)
+library(textir)
 library(gamlr)
-library(randomForest)
-source("deviance.r")
-OCdata <- read.csv("OCdata2.csv")
-df <- data.frame(V1 = OCdata$exp, stringsAsFactors = FALSE)
-mycorpus <- Corpus(DataframeSource(df))
-dtm <- DocumentTermMatrix(mycorpus, control = list(removePunctuation = TRUE, stopwords = TRUE,minDocFreq=3, stemming = TRUE, removeNumbers = TRUE))
-dtm <- removeSparseTerms(dtm, sparse= 0.999) #This is totally ballparked. mindocFreq above fails
-# inspect(dtm[1:5,100:115])
-wordSM2 <- sparseMatrix(i=dtm$i, j=dtm$j, x=dtm$v,
-                       dims=c(dtm$nrow, dtm$ncol))
-colnames(wordSM2)<-colnames(dtm)
-#NUMBER OF UNIQUE WORDS
-dim(wordSM2)[2] #This works just as expected. 3352 words versus
-dim(wordSM) #This has 3470 words
-findFreqTerms(dtm, 400) #Most common terms.
+library(maptpx)
+source("Phrases.R")
+source("predreport.R")
+allonewords<-""
+alltwowords<-""
+allthreewords<-""
+
+for (i in 1:nrow(textmatch)){
+  #PUTS ALL LETTERS IN LOWER CASE
+  ex<-tolower(gsub("[[:punct:]]", "", textmatch[i,2]))
+  #REMOVES "STOP WORDS" ("THE", "IT", "AND", "OF", etc.)
+  ex<-stripWhitespace(removeWords(ex, stopwords("english")))
+  #mikephrase("this is a test of my phrase chunking system")$twowords
+  #SELF-IDENTIFYING WORDS stopwords("english")[-(1:8)]
+  
+  #STEMS THE REMAINING WORDS
+  ex<-paste(stemexcept((strsplit(ex, split=" ")[[1]])), collapse=" ")
+  ex2<-paste(apply(mikephrase(ex)$twowords,   1, function(x) paste0(x, collapse="")), collapse=" ")
+  ex3<-paste(apply(mikephrase(ex)$threewords, 1, function(x) paste0(x, collapse="")), collapse=" ")
+  #SAVES THE FORMATTED WORDS TO THE THIRD COLUMN
+  textmatch[i,3]<-ex
+  textmatch[i,4]<-ex2
+  textmatch[i,5]<-ex3
+  
+  #CREATE A LIST OF EVERY WORD IN EVERY DESCRIPTION
+  allonewords<-c(allonewords,     unlist(strsplit(textmatch[i,3], split=" ")))
+  alltwowords<-c(alltwowords,     unlist(strsplit(textmatch[i,4], split=" ")))
+  allthreewords<-c(allthreewords, unlist(strsplit(textmatch[i,5], split=" ")))
+  print(i)}
+
+
+TARGET<-which(OCdata$targetS==1)
+YY<-OCdata[TARGET,]$prefOC
+dt <- DocumentTermMatrix(Corpus(VectorSource(textmatch[,3])))
+dtm<-dt[TARGET,]
+dtm <- removeSparseTerms(dtm, sparse= 0.999)
+ncol(dtm)
+wordSM <- sparseMatrix(i=dtm$i, j=dtm$j, x=dtm$v,
+                        dims=c(dtm$nrow, dtm$ncol))
+P <- as.data.frame(as.matrix(wordSM))
+colnames(P)<-colnames(dtm)
+
+# YOU LOSE ROWS IN 2 AND 3 WORD PHRASES, THIS IS HOW YOU FIND WHAT YOU LOSE
+rowTotals <- apply(P , 1, sum) 
+remove <- which(rowTotals==0); length(remove)
 
 # [1A] RUN MARGINAL REG TO FIND SUBSET TO ANALYZE
-P <- as.data.frame(as.matrix(wordSM2>0))
 margreg <- function(p){
-  #   fit <- glm(OCdata$prefOC~p*OCdata$targetS - OCdata$targetS) #this should be done later
-  fit <- glm(support~p, family="binomial")
+  fit <- glm(YY~p)
   sf <- summary(fit)
   return(sf$coef[2,4]) 
   #Throw in FDR here
 }
 
 cl <- makeCluster(detectCores())
-support <- OCdata$prefOC>6 #A tight cutoff gave us the most signal - 60 polarizing words
-clusterExport(cl,"support") 
+clusterExport(cl,"YY") 
 mrgpvals <- unlist(parLapply(cl,P,margreg))
 stopCluster(cl) 
 
-# Add back column names
 names(mrgpvals) <- colnames(P)
 hist(sort(mrgpvals)[1:250], col="gray", 
-     border="yellow", xlab="p-values") 
+      xlab="p-values") 
 names(sort(mrgpvals)[1:250])
-length(which((sort(mrgpvals)[1:250])<.05)) #only 91 are <.05
+length(which((sort(mrgpvals)[1:250])<.05)) #only * are <.05
 #THIS IS FINE WE SHOULD LOOK AT INTERACTIONS NGRAMS,SPEECH LENGTH ETC 
 
 # These are the words have the most predictive power (ignoring Beta)
-wordSM2cut <- wordSM2[,names(sort(mrgpvals)[1:95])] # ProbablyShouldn't use 250.
+wordSMcut <- wordSM[,names(sort(mrgpvals)[1:95])] # ProbablyShouldn't use 250.
 
 # [1B] Dimension Reduction method 2: Predict versus raw counts
 #ctfit <- glm(support~wordct, family="binomial") #didnt work
@@ -128,20 +159,45 @@ plot(tpcs.binfit) #Crap I was optimistic about this, but it's no good
 
 
 
-
 # [5a] PCA
-classpca <- prcomp(F, scale=TRUE)
-plot(classpca) 
-
+pca <- prcomp(F, scale=TRUE)
+plot(pca) 
+summary(pca) # the PCs are explaining very little. Can you minimize the number of PCs like log bayes?
 ## look at the big rotations (it does a pretty good job!)
-classpca$rotation[order(abs(classpca$rotation[,1]),decreasing=TRUE),1][1:10]
-classpca$rotation[order(abs(classpca$rotation[,2]),decreasing=TRUE),2][1:20] #no longer garbage
+pca$rotation[order(abs(pca$rotation[,1]),decreasing=TRUE),1][1:10] #These rotations make sense.
+pca$rotation[order(abs(pca$rotation[,2]),decreasing=TRUE),2][1:20] #no longer garbage
 
 ## Plot the first two PCs..
-plot(classpca$x[,1:2], col=0, xlab="PCA 1 direction", ylab="PCA 2 direction", bty="n")
-text(x=classpca$x[,1], y=classpca$x[,2], labels=colnames(wordSM2)[1:20], cex=0.5)
+plot(pca$x[,1:2], col=0, xlab="PCA 1 direction", ylab="PCA 2 direction", bty="n")
+text(x=pca$x[1:20,1], y=pca$x[1:20,2], labels=colnames(wordSM2), cex=1)
 #This isnt helpful but why are the all starting with a?
-zpca <- predict(classpca)
+zpca <- predict(pca)
+zdf <- as.data.frame(zpca)
+pcreg<-glm(OCdata$prefOC ~ ., data=zdf)
+summary(pcreg)
+
+lassoPCR <- cv.gamlr(x=zdf, y=OCdata$prefOC>6, family="binomial", lambda.min.ratio=1e-2)
+plot(lassoPCR$gamlr) #garbage
+##OOS R2
+1-lassoPCR$cvm[lassoPCR$seg.min]/cv.binfit$cvm[1]
+1-lassoPCR$cvm[lassoPCR$seg.1se]/cv.binfit$cvm[1] 
+
+cl <- makeCluster(detectCores())
+myfit <- mnlm(cl, counts=wordSM2cut, covars =y, bins=2) 
+# fits <- mnlm(cl, we8thereRatings, 
+#              we8thereCounts, bins=5,nlambda=10)
+stopCluster(cl)
+B <- coef(myfit)
+mean(B[-1,]==0) # sparsity in loadings
+## some big loadings on `overall'
+B[2,order(B[2,])[1:10]]
+B[2,order(-B[2,])[1:10]]
+
+
+
+
+#[6a] Trees
+zpca <- predict(pca)
 catree <- tree(y ~ as.matrix(wordSMcut))
 rf <- randomForest(y ~ as.matrix(wordSM))
 
