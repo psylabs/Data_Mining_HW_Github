@@ -41,9 +41,9 @@ for (i in 1:nrow(textmatch)){
 
 TARGET<-which(OCdata$targetS==1)
 YY<-OCdata[TARGET,]$prefOC
-dt <- DocumentTermMatrix(Corpus(VectorSource(textmatch[,5])))
+dt <- DocumentTermMatrix(Corpus(VectorSource(textmatch[,3])))
 dtm<-dt[TARGET,]
-dtm <- removeSparseTerms(dtm, sparse= 0.999)
+dtm <- removeSparseTerms(dtm, sparse= 0.991)
 ncol(dtm)
 wordSM2 <- sparseMatrix(i=dtm$i, j=dtm$j, x=dtm$v,
                         dims=c(dtm$nrow, dtm$ncol))
@@ -71,25 +71,15 @@ pca$rotation[order(abs(pca$rotation[,1]),decreasing=TRUE),3][1:10] #These rotati
 pca$rotation[order(abs(pca$rotation[,5]),decreasing=TRUE),5][1:10] #no longer garbage
 pca$rotation[order(abs(pca$rotation[,7]),decreasing=TRUE),7][1:10]
 
-pca <- predict(pca)
+zpca <- predict(pca)
 zdf <- as.data.frame(zpca)
 pcreg<-glm(YY ~ ., data=zdf)
 summary(pcreg)
 yhat <- predict(pcreg,as.data.frame(zdf))
 cor(YY,yhat)^2 
 
-draws<-vector()
-for(i in 1:10){
-  Spred<-(1*(yhat>median(yhat))
-          +1*(yhat==median(yhat)*sample(c(0,1), length(yhat), replace=T)))
-  
-  draws[i]<-mean(Spred==OCdata[TARGET,]$supportOC)
-}
-print(100*round(mean(draws), 3))
 
-
-
-#TOPICS  
+#TOPICS LOOPED
 TMcol<-3
 yhat<-list()
 dev.off()
@@ -98,45 +88,23 @@ for (TT in 0:1){
   TARGET<-which(OCdata$targetS==TT)
   YY<-OCdata[TARGET,]$prefOC
   dt <- DocumentTermMatrix(Corpus(VectorSource(textmatch[,TMcol])))
-  dtm <- dt[TARGET,] #not removing sparse terms
+  dtm <- removeSparseTerms(dt[TARGET,], sparse= 0.991);ncol(dtm)
   # [4a] BUILD TOPIC MODEL  
-  tpcs <- topics(dtm,K=5*(1:5),tol=10)  
+  P <- as.matrix(dtm)/rowSums(as.matrix(dtm)); dim(P)
+#   rowTotals <- apply(dtm , 1, sum) #Find the sum of words in each Document
+#   remove <- which(rowTotals==0); length(remove)
+  tpcs <- topics(P,K=5*(1:5),tol=10)  
   summary(tpcs, n=10)   
   # [4b] IS TOPIC MODEL GAMLR
   treg<-gamlr(tpcs$omega, y=YY,lambda.min.ratio=1e-3)
-  plot(treg, main=paste("Topic Reg OCSupport =", TT, sep=" "))
-  print(drop(coef(treg))*0.1) #AICc #Shows topics support or oppose OC  
+  plot(treg, main=paste("Topic Reg writing TargetS =", TT, sep=" "))
+  print(round(drop(coef(treg)),1)) #AICc #Shows topics support or oppose OC  
 #   cor(YY,yhat)^2
 #   yhat<-predict(treg,tpcs$omega)
   yhat[[TT+1]] <- as.vector(predict(treg,tpcs$omega))
 }
 
 predreport(yhat[[2]], yhat[[1]])
-
-
-
-
-# MNIR
-cl=NULL
-fitCS <- mnlm(cl, YY, P, bins=5,gamma=1)
-B <- coef(fitCS)
-B[2,order(B[2,])[1:10]]
-B[2,order(-B[2,])[1:10]]
-z <- srproj(B,as.matrix(P))
-
-mnirfit <- gamlr(z, y=YY, lambda.min.ratio=1e-3)
-plot(mnirfit)
-Bmnir <- drop(coef(mnirfit)) # AICc
-Bmnir[which(abs(Bmnir)>0)]
-yhat <- as.vector(predict(mnirfit,z))
-cor(YY,yhat)^2 
-hist(yhat)
-
-summary(fwd <- lm(YY ~ z)) 
-plot(fwd$fitted ~ factor(YY), 
-     varwidth=TRUE, col="lightslategrey")
-
-plot(z, pch=21, main="SR projections")
 
 
 
@@ -156,7 +124,6 @@ for (TT in 0:1){
   cl=NULL
   fitCS <- mnlm(cl, YY, P, bins=5,gamma=1)
   B <- coef(fitCS)
-#   mean(B[-1,]==0) # sparsity in loadings
   print(B[2,order(B[2,])[1:10]])
   print(B[2,order(-B[2,])[1:10]])
   z <- srproj(B,as.matrix(P))
@@ -166,9 +133,9 @@ for (TT in 0:1){
   plot(fwd$fitted ~ factor(YY), 
        varwidth=TRUE, col="lightslategrey",
        xlab="PrefOC", ylab="z", pch=20,
-       main=paste("LM fit from MNIR OCSupport =", TT, sep=" ")) 
+       main=paste("LM fit from MNIR targetS =", TT, sep=" ")) 
   #PLOT Z VS M(PHRASE LENGTH)
-  plot(z, pch=20, main=paste("SR Projection OCSupport=", TT, sep=" "),
+  plot(z, pch=20, main=paste("SR Projection targetS=", TT, sep=" "),
        ylab="number of phrases", xlab="z")  
   mnirfit <- gamlr(z, y=YY, lambda.min.ratio=1e-2)
   Bmnir <- drop(coef(mnirfit)) # AICc
@@ -176,32 +143,4 @@ for (TT in 0:1){
   yhat[[TT+1]] <- as.vector(predict(mnirfit,z))
 }
 
-dev.off()
-
 predreport(yhat[[2]], yhat[[1]])
-
-
-
-
-
-
-yhat <- as.vector(predict(mnirfit,z))
-cor(YY,yhat)^2 
-
-
-
-
-
-
-# lassoPCR <- cv.gamlr(x=zdf, y=YY, lambda.min.ratio=1e-2)
-# coef(lassoPCR)
-# plot(lassoPCR$gamlr) #garbage
-# ##OOS R2
-# 1-lassoPCR$cvm[lassoPCR$seg.min]/cv.binfit$cvm[1]
-# 1-lassoPCR$cvm[lassoPCR$seg.1se]/cv.binfit$cvm[1] 
-
-
-# rowTotals <- apply(P , 1, sum) #Find the sum of words in each Document
-# remove <- which(rowTotals==0)
-# length(remove)
-
